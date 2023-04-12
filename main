@@ -5,11 +5,13 @@ groups = EvDed::load_and_transform(File.join(__dir__,'annotation_and_grouping.ya
 
 puts "Groups, Sensor and number data points:"
 groups.each do |k,sensors|
-  puts k
+  puts "  #{k}"
   sensors.each do |k,series|
-    puts "  #{k}: #{series.length}"
+    puts "    #{k}: #{series.length}"
   end
 end
+
+puts "\nStep 3: ..."
 
 stime = '2022-07-19 10:02:57.22 +0200'
 print "\nSearching for '#{stime}' in vgr/current_state: "

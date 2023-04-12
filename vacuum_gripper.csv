@@ -1,0 +1,1161 @@
+id,timestamp,i1_position_switch_pressed,i2_position_switch_pressed,i3_position_switch_pressed,o7_compressor_power_level,o8_valve_open,m1_speed,m2_speed,m3_speed,current_state,current_task,current_task_elapsed_seconds_since_start,current_sub_task,failure_label,current_pos_x,current_pos_y,current_pos_z,target_pos_x,target_pos_y,target_pos_z
+VGR,2022-07-19 10:01:44.19,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.29,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.40,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.50,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.60,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.71,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.83,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:44.93,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.04,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.14,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.25,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.35,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.46,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.56,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.67,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.77,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.88,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:45.98,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.09,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.19,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.30,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.40,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.51,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.61,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.71,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.82,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:46.92,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.02,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.13,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.23,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.34,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.44,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.55,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.65,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.75,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.86,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:47.96,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.07,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.17,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.27,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.38,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.48,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.59,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.69,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.79,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:48.90,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.00,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.11,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.21,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.32,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.42,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.52,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.63,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.73,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.84,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:49.94,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.05,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.15,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.26,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.36,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.47,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.57,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.67,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.78,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.88,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:50.99,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.09,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.19,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.30,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.40,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.50,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.60,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.71,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.81,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:51.92,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.02,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.13,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.23,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.34,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.44,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.55,True,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.66,True,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.013179,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.79,True,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.149324,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:52.94,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.29222,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.10,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.460053,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.22,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.576594,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.35,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.709807,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.49,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.843539,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.61,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,0.969364,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.74,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.094312,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.86,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.220046,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:53.99,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.34602,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.12,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.475967,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.25,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.605794,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.38,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.738002,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.50,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.859847,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.63,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,1.982152,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.73,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.088614,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.85,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.211848,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:54.98,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.333392,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.09,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.445702,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.21,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.567414,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.33,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.683865,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.44,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.800786,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.56,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,2.919125,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.68,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.035731,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.81,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.165859,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:55.95,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.305029,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.11,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.469173,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.24,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.596093,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.36,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.716627,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.47,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.831117,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.60,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,3.955038,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.74,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.097337,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.86,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.22121,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:56.99,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.348063,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.10,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.454631,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.20,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.560549,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.33,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.682406,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.44,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.799243,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.56,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,4.920134,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.70,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.058713,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.83,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.187478,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:57.97,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.327528,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.09,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.446779,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.21,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.564491,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.33,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.682203,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.46,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.812303,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.59,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,5.942314,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.70,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.059601,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.84,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.199423,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:58.98,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.335076,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.08,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.437673,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.22,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.573727,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.34,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.696561,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.47,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.822422,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.59,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,6.946108,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.71,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.069882,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.84,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.199916,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:01:59.96,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.31407,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.08,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.440732,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.19,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.550231,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.33,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.68377,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.45,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.806942,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.57,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,7.926824,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.68,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.04165,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.81,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.165675,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:00.94,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.295036,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:01.07,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.424484,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:01.18,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.535833,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:01.30,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.653416,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:01.43,False,True,True,0,False,-512,0,0,not ready,moving towards the high_bay_warehouse,8.788486,moving towards the high_bay_warehouse,,0,0,0,0,0,0
+VGR,2022-07-19 10:02:01.54,False,True,True,0,False,0,0,0,not ready,moving towards the high_bay_warehouse,8.894545,moving towards the high_bay_warehouse,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:01.65,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:01.76,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:01.86,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:01.96,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.07,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.17,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.28,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.38,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.49,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.59,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.69,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.79,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:02.90,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.00,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.10,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.21,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.31,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.42,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.52,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.62,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.72,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.82,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:03.93,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.03,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.13,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.24,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.34,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.45,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.55,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.66,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.76,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.87,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:04.97,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.07,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.17,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.28,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.38,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.48,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.59,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.69,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.80,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:05.90,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.01,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.11,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.22,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.32,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.42,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.53,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.63,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.73,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.84,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:06.94,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.04,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.15,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.25,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.36,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.46,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.56,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.66,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.77,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.87,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:07.97,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.08,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.18,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.28,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.39,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.49,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.60,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.70,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.81,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:08.91,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.01,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.11,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.21,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.32,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.42,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.53,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.63,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.74,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.84,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:09.94,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.05,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.15,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.25,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.36,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.46,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.57,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.67,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.88,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:10.98,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.09,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.19,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.30,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.40,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.50,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.61,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.71,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.81,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:11.92,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.02,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.13,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.23,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.34,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.44,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.55,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.65,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.75,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.86,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:12.96,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.06,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.17,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.27,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.38,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.48,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.58,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.69,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.79,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:13.89,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.00,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.10,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.21,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.31,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.41,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.52,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.62,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.72,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.83,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:14.93,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.03,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.13,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.23,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.34,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.44,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.54,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.65,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.75,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.86,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:15.96,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.06,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.16,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.27,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.37,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.47,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.57,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.68,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.88,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:16.98,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.09,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.19,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.29,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.39,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.50,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.60,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.70,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.80,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:17.91,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.01,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.11,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.22,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.32,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.42,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.53,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.63,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.74,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.84,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:18.95,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.05,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.16,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.26,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.37,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.47,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.57,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.67,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.88,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:19.99,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.09,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.20,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.30,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.40,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.51,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.61,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.71,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.82,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:20.92,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.02,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.12,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.22,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.32,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.43,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.53,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.64,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.74,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.84,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:21.95,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.05,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.15,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.26,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.36,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.47,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.57,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.68,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.88,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:22.99,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.09,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.19,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.29,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.40,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.50,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.61,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.71,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.81,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:23.92,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.03,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.13,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.23,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.34,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.44,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.54,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.64,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.75,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.85,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:24.95,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.06,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.16,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.27,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.37,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.47,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.58,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.68,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.89,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:25.99,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.09,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.20,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.30,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.40,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.51,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.61,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.72,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.82,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:26.92,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.02,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.13,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.24,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.34,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.44,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.55,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.65,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.76,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.86,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:27.97,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.07,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.18,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.28,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.38,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.49,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.59,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.70,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.80,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:28.91,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.01,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.11,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.22,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.32,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.43,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.53,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.63,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.73,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.84,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:29.94,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.04,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.16,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.27,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.37,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.47,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.57,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.68,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.89,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:30.99,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.10,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.20,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.30,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.41,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.51,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.62,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.72,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.82,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:31.92,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.03,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.13,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.23,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.34,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.44,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.54,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.65,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.75,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.86,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:32.96,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.06,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.17,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.27,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.37,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.48,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.58,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.68,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.79,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.89,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:33.99,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.09,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.20,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.30,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.40,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.50,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.61,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.71,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.81,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:34.92,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.02,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.12,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.23,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.33,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.44,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.54,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.64,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.74,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.85,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:35.95,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.05,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.16,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.27,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.37,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.47,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.57,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.67,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.78,False,True,True,0,False,0,0,0,ready,,0.0,,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:36.88,False,True,True,0,False,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.008045,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.02,False,True,True,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.141847,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.16,False,True,True,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.283293,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.31,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.429821,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.45,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.574393,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.59,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.712731,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.74,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.868931,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:37.87,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,0.990536,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:38.02,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.142217,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:38.14,False,True,False,0,False,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.264678,calibrating motor 3,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:38.27,False,True,False,0,False,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.390841,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:38.42,False,True,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.541526,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:38.56,False,False,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.686935,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:38.72,False,False,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.844002,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:38.86,False,False,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,1.984082,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:39.00,False,False,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.119382,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:39.12,False,False,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.239987,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:39.25,False,False,False,0,False,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.374107,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:39.39,False,False,False,0,False,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.509266,calibrating motor 3,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:39.52,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.646887,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:39.63,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.751423,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:39.73,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.856571,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:39.84,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,2.959241,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:39.94,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.061487,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.04,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.166682,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.15,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.271018,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.25,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.373175,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.35,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.478492,picking up the workpiece from the high bay warehouse,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.46,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.587674,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.62,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.742603,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.75,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,3.874421,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:40.92,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.042589,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:41.05,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.175129,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:41.19,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.30924,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:41.32,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.444049,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:41.47,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.589199,calibrating motor 2,,0,0,0,1397,165,195
+VGR,2022-07-19 10:02:41.58,False,True,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.705219,calibrating motor 2,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:41.72,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.840998,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:41.86,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,4.98281,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.00,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.126112,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.14,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.264886,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.29,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.41316,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.42,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.545732,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.54,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.661495,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.67,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.797328,calibrating motor 3,,0,0,0,1397,0,195
+VGR,2022-07-19 10:02:42.81,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,5.932142,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:42.96,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.081364,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.11,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.229897,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.24,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.366057,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.37,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.494507,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.50,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.627953,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.64,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.764676,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.79,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,6.914197,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:43.94,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.066112,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.08,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.200139,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.22,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.339225,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.34,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.466051,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.48,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.606496,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.64,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.76673,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.77,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,7.889361,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:44.88,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.004993,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.02,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.145457,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.18,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.301311,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.29,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.414606,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.43,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.550221,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.58,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.706906,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.71,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.838543,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.85,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,8.969792,transporting the workpiece to the oven,,0,0,0,1397,0,0
+VGR,2022-07-19 10:02:45.98,False,True,True,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.107785,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.10,False,True,True,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.223717,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.23,False,True,True,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.358426,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.37,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.497468,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.51,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.637159,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.66,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.779916,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.79,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,9.913619,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:46.90,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.025691,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.07,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.190243,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.19,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.310514,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.32,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.446261,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.44,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.565572,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.58,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.701187,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.71,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.837492,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:47.85,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,10.973459,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.00,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.122682,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.12,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.244493,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.27,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.392352,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.40,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.528809,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.55,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.671314,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.68,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.806966,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.82,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,11.944072,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:48.96,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.087634,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.10,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.22675,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.23,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.352959,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.38,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.507552,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.51,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.635717,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.65,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.77237,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.77,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,12.896655,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:49.90,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.020702,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.07,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.191753,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.22,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.340938,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.33,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.455143,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.46,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.587729,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.59,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.709782,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.73,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.85358,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:50.86,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,13.982041,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:51.01,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.129746,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:51.13,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.251535,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:51.28,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.404065,transporting the workpiece to the oven,,0,0,0,925,0,0
+VGR,2022-07-19 10:02:51.42,False,True,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.546852,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:51.58,False,True,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.699833,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:51.71,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.833034,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:51.84,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,14.960317,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.00,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.127847,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.12,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.248222,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.25,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.378012,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.38,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.500193,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.52,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.639859,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.65,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.770967,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.80,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,15.922218,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:52.92,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.043889,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.08,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.203598,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.22,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.339269,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.34,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.4646,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.47,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.589905,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.59,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.718503,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.73,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.858767,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.86,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,16.988156,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:53.98,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.108879,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:54.11,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.231937,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:54.22,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.342071,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:54.32,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.448709,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:54.44,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.565156,transporting the workpiece to the oven,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:54.56,False,False,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.680406,dropping off the workpiece at the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:54.66,False,False,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.78525,dropping off the workpiece at the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:54.76,False,False,False,0,False,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.885583,dropping off the workpiece at the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:54.87,False,False,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,17.989533,dropping off the workpiece at the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:54.97,False,False,False,0,False,0,0,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.094619,dropping off the workpiece at the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.08,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.205949,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.22,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.34368,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.35,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.473695,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.47,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.591686,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.58,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.701212,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.69,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.815274,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.82,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,18.943565,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:55.97,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.091693,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.10,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.221908,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.23,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.349511,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.34,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.461977,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.47,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.589885,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.58,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.705405,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.70,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.819416,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.82,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,19.944628,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:56.94,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.06132,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.05,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.178817,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.19,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.315722,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.30,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.428442,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.42,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.546913,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.55,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.675347,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.69,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.814685,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.83,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,20.951314,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:57.97,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.092989,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:58.09,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.215957,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:58.21,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.331549,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:58.34,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.468831,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:02:58.47,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.592622,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:58.60,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.723157,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:58.72,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.846141,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:58.85,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,21.974931,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.01,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.12977,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.14,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.261022,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.25,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.377664,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.39,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.515652,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.51,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.632895,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.63,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.752369,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.75,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.873034,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.87,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,22.994479,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:02:59.99,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.110413,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.11,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.232744,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.24,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.361464,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.37,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.495435,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.50,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.625513,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.63,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.752492,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.79,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,23.917433,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:00.92,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.039619,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.03,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.158696,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.16,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.285583,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.27,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.395547,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.39,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.510099,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.52,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.646076,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.64,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.760308,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.75,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.876053,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.87,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,24.996752,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:01.99,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.1143,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.13,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.250978,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.25,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.375039,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.37,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.49127,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.50,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.619769,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.61,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.732361,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.71,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.838424,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.84,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,25.960969,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:02.96,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,26.080274,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:03.07,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,26.192889,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:03.18,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,26.305787,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:03.31,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,26.434527,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:03.44,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,26.562011,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:03.57,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the high_bay_warehouse to the oven,26.698318,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:03.68,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:03.79,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:03.89,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.00,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.10,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.20,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.31,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.41,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.52,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.62,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.73,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.83,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:04.93,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.04,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.14,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.24,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.35,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.45,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.56,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.66,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.77,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.87,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:05.98,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.08,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.18,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.29,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.39,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.50,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.60,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.70,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.81,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:06.91,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.01,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.11,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.22,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.32,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.42,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.53,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.63,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.73,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.85,False,True,True,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.102352,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:07.98,False,True,True,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.231996,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.11,False,True,True,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.3687,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.24,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.492032,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.36,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.612758,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.50,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.754432,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.63,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,0.88368,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.76,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.01378,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:08.88,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.137484,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.02,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.271411,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.14,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.391829,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.25,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.502481,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.37,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.629569,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.50,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.752683,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.63,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,1.881007,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.75,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.009871,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:09.88,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.138176,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.00,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.257436,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.12,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.370981,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.22,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.474792,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.33,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.582842,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.44,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.698614,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.59,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.844245,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.70,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,2.953659,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.83,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.082858,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:10.96,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.216637,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.08,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.333337,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.21,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.462146,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.33,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.589698,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.45,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.703307,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.57,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.823342,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.68,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,3.935864,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.79,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.050546,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:11.93,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.185924,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.06,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.316959,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.18,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.438425,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.29,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.547771,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.41,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.669477,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.54,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.798891,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.67,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,4.925353,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.79,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.044365,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:12.90,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.160136,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:13.02,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.277778,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:13.13,False,True,False,0,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.387615,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:13.25,False,True,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.504825,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:13.39,False,True,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.644661,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:13.51,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.768425,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:13.64,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,5.898626,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:13.76,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.017004,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:13.88,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.131951,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.00,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.258944,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.12,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.374757,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.24,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.496523,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.35,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.610683,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.47,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.722543,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.59,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.846419,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.72,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,6.977895,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.83,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.088924,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:14.96,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.214816,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.08,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.337633,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.20,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.459506,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.32,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.580554,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.46,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.714981,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.57,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.826772,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.70,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,7.956918,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.82,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.079923,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:15.95,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.201274,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:16.06,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.318893,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:16.19,False,False,False,0,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.442515,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:16.32,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.571882,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:16.42,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.674104,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:16.52,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.779295,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:16.63,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.884325,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:16.73,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,8.985612,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:16.83,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.086774,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:16.93,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.188136,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.04,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.292929,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.14,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.398697,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.25,False,False,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.50309,picking up the workpiece from the oven,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.36,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.614817,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.48,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.737539,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.60,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.859915,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.72,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,9.977818,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.83,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.090566,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:17.94,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.19407,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.06,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.313433,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.19,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.446027,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.30,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.551172,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.41,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.665287,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.52,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.778769,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.65,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,10.910291,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.79,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.042646,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:18.92,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.171997,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.03,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.288288,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.17,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.421882,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.30,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.553106,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.42,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.677792,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.54,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.796075,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.68,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,11.932481,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.79,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.049815,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:19.94,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.19599,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.08,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.337882,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.20,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.455431,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.32,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.572699,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.43,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.686692,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.55,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.805523,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.67,False,False,False,512,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,12.92449,calibrating motor 2,,0,0,0,925,500,878
+VGR,2022-07-19 10:03:20.78,False,True,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.037806,calibrating motor 2,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:20.92,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.171368,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.03,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.285232,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.15,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.401199,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.27,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.529323,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.43,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.682068,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.55,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.802828,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.66,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,13.919686,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.78,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.033184,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:21.89,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.143855,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.05,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.309594,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.18,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.432538,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.28,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.540318,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.40,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.659225,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.56,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.820779,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.70,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,14.956524,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.82,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.080241,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:22.94,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.194621,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.06,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.316822,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.18,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.434402,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.29,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.54102,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.41,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.663153,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.53,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.787017,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.67,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,15.928699,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.79,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.041549,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:23.93,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.18227,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.04,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.295858,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.16,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.410992,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.27,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.522374,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.38,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.637567,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.50,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.756198,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.62,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,16.879065,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.75,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.006532,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:24.88,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.133111,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.01,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.262633,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.15,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.403976,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.29,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.5444,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.40,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.654445,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.53,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.789481,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.64,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,17.899518,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.78,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.034138,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:25.93,False,True,False,512,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.186065,calibrating motor 3,,0,0,0,925,0,878
+VGR,2022-07-19 10:03:26.05,False,True,True,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.307656,calibrating motor 3,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.18,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.436416,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.30,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.558814,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.41,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.66479,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.53,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.784503,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.64,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,18.897097,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.76,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.015834,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:26.89,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.146263,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.01,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.261264,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.12,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.371828,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.23,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.48828,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.34,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.593797,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.45,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.709716,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.59,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.845995,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.72,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,19.976136,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.83,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.090478,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:27.98,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.233222,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.13,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.386914,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.26,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.518624,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.37,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.629971,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.50,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.757993,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.64,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,20.8976,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.76,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.013766,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:28.90,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.160608,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:29.03,False,True,True,512,True,512,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.289289,transporting the workpiece to the sink 1,,0,0,0,925,0,0
+VGR,2022-07-19 10:03:29.16,False,True,True,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.417189,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:29.28,False,True,True,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.540004,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:29.42,False,True,True,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.673186,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:29.53,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.787685,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:29.64,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,21.899037,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:29.76,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.011808,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:29.89,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.147229,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.01,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.266255,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.15,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.402482,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.26,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.51775,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.39,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.648049,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.52,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.77807,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.63,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,22.889457,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.78,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.031151,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:30.88,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.136792,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.02,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.280772,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.15,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.408091,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.27,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.529081,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.39,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.649729,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.51,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.762553,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.64,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,23.895516,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.76,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.012659,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:31.88,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.131665,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.01,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.267974,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.16,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.414925,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.29,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.543422,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.41,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.668823,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.57,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.827662,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.70,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,24.956596,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.86,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.111902,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:32.99,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.250822,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:33.11,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.362812,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:33.23,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.481602,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:33.34,False,True,False,512,True,0,0,-512,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.600381,transporting the workpiece to the sink 1,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:33.47,False,True,False,512,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.728613,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:33.58,False,True,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.839914,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:33.70,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,25.957399,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:33.84,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.091673,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:33.97,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.225449,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.10,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.353361,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.22,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.475087,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.35,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.604449,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.48,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.734696,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.61,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.863219,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.73,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,26.989355,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.86,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.111032,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:34.98,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.239314,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.11,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.370767,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.25,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.501203,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.37,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.627709,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.49,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.742345,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.62,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,27.876847,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.75,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.007229,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.87,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.124587,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:35.99,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.242259,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.12,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.378639,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.24,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.499612,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.36,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.617971,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.47,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.728071,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.59,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.850518,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.72,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,28.974326,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.85,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.104734,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:36.98,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.232755,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:37.10,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.360685,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:37.24,False,False,False,512,True,0,-512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.499612,transporting the workpiece to the sink 1,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:37.36,False,False,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.617083,dropping off the workpiece at the sink 1,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:37.47,False,False,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.721423,dropping off the workpiece at the sink 1,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:37.57,False,False,False,0,False,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.821672,dropping off the workpiece at the sink 1,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:37.67,False,False,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,29.9272,dropping off the workpiece at the sink 1,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:37.77,False,False,False,0,False,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.028824,dropping off the workpiece at the sink 1,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:37.88,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.139098,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.01,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.265904,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.15,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.404996,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.26,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.516277,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.38,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.633672,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.50,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.753685,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.62,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.871725,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.73,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,30.987273,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.86,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.12064,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:38.99,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.244506,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.11,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.367329,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.22,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.477661,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.34,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.598697,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.46,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.720869,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.60,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.857984,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.71,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,31.962554,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.82,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.07251,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:39.94,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.192842,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.06,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.314595,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.20,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.451461,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.31,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.568538,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.44,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.698647,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.56,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.819068,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.69,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,32.946183,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.81,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.068192,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:40.93,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.188403,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.06,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.316345,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.18,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.440256,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.30,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.560528,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.44,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.697324,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.57,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.82422,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.70,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,33.953605,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.83,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.083506,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:41.94,False,False,False,0,True,0,512,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.196827,calibrating motor 2,,0,0,0,464,630,690
+VGR,2022-07-19 10:03:42.10,False,True,False,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.356561,calibrating motor 2,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:42.20,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.459692,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:42.35,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.600957,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:42.48,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.736681,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:42.62,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.874479,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:42.74,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,34.998406,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:42.88,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.133445,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.00,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.257067,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.12,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.378812,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.24,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.496419,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.37,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.624504,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.48,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.739491,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.61,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,35.870255,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.75,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.005186,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.87,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.126332,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:43.98,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.231278,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.11,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.369584,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.25,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.505534,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.40,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.660312,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.53,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.782142,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.64,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,36.893993,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.78,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.035759,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:44.92,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.172188,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.04,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.298643,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.17,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.421954,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.28,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.536436,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.41,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.663846,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.53,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.781375,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.65,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,37.902871,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.76,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,38.019183,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:45.89,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,38.145941,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:46.01,False,True,False,0,True,0,0,512,not ready,picking up and transporting the workpiece from the oven to the sink_1,38.263358,calibrating motor 3,,0,0,0,464,0,690
+VGR,2022-07-19 10:03:46.14,False,True,True,0,True,0,0,0,not ready,picking up and transporting the workpiece from the oven to the sink_1,38.391329,calibrating motor 3,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.27,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.37,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.48,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.58,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.68,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.79,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.89,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:46.99,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.10,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.20,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.31,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.41,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.51,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.62,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.72,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.82,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:47.93,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.03,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.14,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.24,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.35,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.45,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.56,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.66,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.76,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.87,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:48.97,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.07,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.18,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.28,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.38,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.48,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.59,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.69,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.80,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:49.90,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.01,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.11,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.21,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.32,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.42,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.53,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.63,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.73,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.84,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:50.94,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.04,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.15,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.26,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.36,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.46,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.57,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.67,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.77,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.88,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:51.98,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.09,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.19,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.29,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.40,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.50,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.60,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.71,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.81,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:52.92,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.02,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.12,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.23,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.33,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.43,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.54,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.64,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.74,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.85,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:53.95,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.06,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.16,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.27,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.37,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.47,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.58,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.68,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.78,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.89,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:54.99,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.10,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.20,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.30,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.40,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.51,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.61,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.71,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.82,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:55.92,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.02,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.13,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.23,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.34,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.44,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.54,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.64,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.74,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.85,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:56.95,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:57.05,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:57.16,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:57.26,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:57.37,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:57.47,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0
+VGR,2022-07-19 10:03:57.58,False,True,True,0,True,0,0,0,ready,,0.0,,,0,0,0,464,0,0

@@ -1,0 +1,1137 @@
+id,timestamp,i1_light_barrier_interrupted,i2_light_barrier_interrupted,i3_light_barrier_interrupted,i4_light_barrier_interrupted,i5_position_switch_pressed,i6_position_switch_pressed,i7_position_switch_pressed,i8_position_switch_pressed,m1_speed,m2_speed,m3_speed,m4_speed,current_state,current_task,current_task_elapsed_seconds_since_start,current_sub_task,failure_label,current_pos_x,current_pos_y,target_pos_x,target_pos_y,amount_of_stored_workpieces
+HBW,2022-07-19 10:01:44.23,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.34,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.44,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.54,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.65,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.75,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.86,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:44.96,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.07,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.17,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.28,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.38,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.49,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.59,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.70,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.80,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:45.91,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.01,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.12,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.22,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.33,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.43,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.53,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.64,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.74,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.85,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:46.95,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.06,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.16,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.26,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.37,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.47,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.57,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.68,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.78,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.89,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:47.99,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.10,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.20,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.31,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.41,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.51,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.62,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.72,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.83,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:48.93,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.03,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.14,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.24,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.34,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.44,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.54,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.65,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.75,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.86,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:49.96,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.07,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.17,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.27,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.37,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.48,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.58,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.69,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.79,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:50.90,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.00,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.10,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.21,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.31,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.41,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.52,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.62,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.73,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.83,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:51.94,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.04,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.15,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.25,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.36,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.46,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.56,False,True,False,False,False,False,True,False,0,0,0,0,ready,,0.0,,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.67,False,True,False,False,False,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.024734,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.80,False,True,False,False,False,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.158667,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:52.92,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.281145,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.05,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.404909,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.19,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.547551,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.30,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.660256,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.43,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.78347,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.54,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,0.894963,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.68,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.035963,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.81,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.164856,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:53.94,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.300158,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.07,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.430189,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.19,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.550942,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.31,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.667151,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.44,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.794303,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.55,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,1.906074,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.67,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.030298,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.79,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.143075,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:54.89,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.247062,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.00,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.356702,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.11,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.470633,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.25,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.604766,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.36,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.72129,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.49,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.844477,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.61,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,2.964916,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.72,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.081596,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.83,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.19063,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:55.97,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.326025,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.09,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.44387,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.20,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.559398,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.32,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.677326,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.44,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.794905,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.55,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,3.909511,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.66,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.020539,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.79,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.143915,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:56.90,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.261355,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:57.03,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.383734,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:57.15,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.507472,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:57.27,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.624514,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:57.38,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.738582,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:57.50,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,4.858417,moving towards the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:01:57.63,False,True,False,False,True,False,True,False,0,0,0,0,not ready,unloading a workpiece from slot 2,4.981945,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:57.76,False,True,False,False,True,False,True,False,0,0,0,-512,not ready,unloading a workpiece from slot 2,5.121288,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:57.89,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,5.243996,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:58.00,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,5.360305,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:58.11,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,5.468243,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:58.22,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,5.577862,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:58.34,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,5.700859,moving towards the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:01:58.46,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,5.818433,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:58.57,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,5.9298,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:58.70,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.057776,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:58.82,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.181429,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:58.95,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.30215,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.06,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.418654,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.19,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.548507,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.31,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.665084,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.44,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.792692,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.56,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,6.91457,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.67,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.022293,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.79,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.14338,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:01:59.91,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.265625,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.03,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.382839,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.16,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.518697,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.29,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.648318,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.42,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.775448,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.52,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.879402,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.64,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,7.998802,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.76,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.121485,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.87,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.23001,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:00.98,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.337749,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.10,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.459175,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.22,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.576686,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.35,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.711673,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.46,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.81693,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.58,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,8.936151,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.70,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.052774,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.84,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.195296,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:01.97,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.325903,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.11,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.466005,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.24,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.594942,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.38,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.73742,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.51,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.870357,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.63,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,9.98754,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.74,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.09835,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.85,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.210025,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:02.96,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.321173,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.09,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.442374,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.21,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.569034,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.37,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.722511,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.51,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,10.87158,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.65,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.002956,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.77,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.12677,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:03.88,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.241385,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.04,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.39465,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.17,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.530596,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.31,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.67103,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.43,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.79035,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.59,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,11.944751,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.70,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.058844,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.84,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.191967,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:04.95,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.311171,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.10,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.459095,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.22,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.580142,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.36,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.715902,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.51,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.8633,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.63,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,12.98475,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.74,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.101347,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:05.90,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.258759,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.05,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.411416,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.18,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.540911,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.34,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.696431,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.46,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.817365,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.61,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,13.968738,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.72,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,14.080944,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:06.86,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,14.220637,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.02,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,14.373678,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.17,False,True,False,False,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,14.526448,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.29,False,True,False,False,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,14.650177,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.42,False,True,False,False,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,14.781422,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.57,False,True,False,False,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,14.921821,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.71,False,True,False,False,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,15.069343,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:07.86,False,True,False,False,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,15.217374,picking up the bucket from the slot,,0,0,750,100,0
+HBW,2022-07-19 10:02:08.02,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,15.37314,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.14,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,15.50137,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.27,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,15.628679,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.39,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,15.745372,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.55,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,15.910268,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.69,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.042026,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.80,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.15979,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:08.93,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.28872,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.05,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.407621,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.18,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.53419,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.31,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.670661,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.43,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.789415,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.57,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,16.921881,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.68,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.041307,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.81,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.168347,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:09.97,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.322582,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.13,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.482927,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.26,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.614233,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.41,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.764265,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.55,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,17.908687,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.70,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.060598,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.82,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.171825,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:10.96,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.314797,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.10,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.457322,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.22,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.574519,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.33,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.688765,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.47,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.823438,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.59,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,18.945444,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.73,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.083792,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:11.89,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.246416,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.01,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.370422,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.13,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.489964,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.25,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.604319,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.42,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.779327,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.55,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,19.911018,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.69,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.051428,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.84,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.20137,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:12.98,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.337019,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.11,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.463697,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.23,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.587598,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.36,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.712319,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.48,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.837814,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.60,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,20.960924,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.72,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.078888,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:13.87,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.224739,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.04,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.392086,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.19,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.550084,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.34,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.696078,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.48,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.834094,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.62,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,21.973506,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.76,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,22.114214,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:14.87,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,22.223702,picking up the bucket from the slot,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.01,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,22.365139,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.17,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,22.522126,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.31,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,22.666909,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.43,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,22.787036,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.56,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,22.918352,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.69,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.042143,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.81,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.166578,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:15.96,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.313435,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.08,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.438536,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.21,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.571156,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.35,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.70394,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.49,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.85144,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.62,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,23.97268,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.75,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.1022,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.86,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.218308,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:16.98,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.335788,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.12,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.474687,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.23,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.589211,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.40,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.755763,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.53,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,24.885603,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.67,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.029609,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.81,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.167812,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:17.94,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.300022,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.08,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.432495,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.21,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.571569,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.37,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.72195,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.51,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.864203,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.64,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,25.992164,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.76,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,26.119016,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:18.92,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,26.279673,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:19.05,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,26.401861,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:19.18,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,26.538433,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:19.31,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,26.66396,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:19.44,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,26.793149,transporting the bucket to the conveyor belt,,0,0,750,20,0
+HBW,2022-07-19 10:02:19.58,False,True,False,False,False,False,True,True,0,-512,0,0,not ready,unloading a workpiece from slot 2,26.934466,transporting the bucket to the conveyor belt,,0,0,0,20,0
+HBW,2022-07-19 10:02:19.73,False,True,False,False,True,False,True,True,0,-512,0,0,not ready,unloading a workpiece from slot 2,27.083373,transporting the bucket to the conveyor belt,,0,0,0,20,0
+HBW,2022-07-19 10:02:19.89,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.244428,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.03,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.390074,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.15,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.50315,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.27,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.629001,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.39,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.749947,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.52,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.875313,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.63,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,27.98878,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.76,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.119727,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:20.94,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.295936,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.05,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.405919,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.20,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.555864,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.31,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.667263,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.44,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.80072,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.58,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,28.939224,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.69,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.051071,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.82,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.180496,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:21.95,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.30334,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.06,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.413002,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.19,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.551005,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.32,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.680474,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.46,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.819768,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.60,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,29.954296,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.71,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.071028,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.87,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.226832,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:22.99,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.348648,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.16,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.513475,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.28,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.634752,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.41,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.76404,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.54,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,30.899438,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.68,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,31.038085,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.81,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,31.162715,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:23.93,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,31.287083,transporting the bucket to the conveyor belt,,0,0,32,20,0
+HBW,2022-07-19 10:02:24.08,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,31.433895,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:24.22,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,31.57693,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:24.35,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,31.702596,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:24.51,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,31.866459,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:24.65,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.008573,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:24.78,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.141512,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:24.91,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.269689,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.05,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.403668,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.17,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.531108,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.31,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.665571,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.49,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.843008,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.62,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,32.974045,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.75,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.102959,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:25.87,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.22489,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.00,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.357322,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.15,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.503056,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.27,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.626613,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.41,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.770855,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.53,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,33.887883,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.66,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.019765,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.80,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.155888,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:26.93,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.285821,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.05,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.40795,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.18,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.531935,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.29,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.644367,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.44,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.801049,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.55,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,34.906545,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.69,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.044287,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:27.86,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.213249,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.01,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.361753,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.12,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.479101,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.26,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.612192,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.38,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.732658,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.54,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,35.90116,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.69,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,36.043678,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:28.85,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,36.2087,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.00,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,36.356,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.13,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,36.486141,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.28,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,36.638837,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.42,False,True,False,True,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,36.780579,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.57,False,True,False,True,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,36.92527,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.71,False,True,False,True,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,37.067816,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:29.86,False,True,False,True,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,37.212946,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:30.00,False,True,False,True,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,37.352954,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:30.16,False,True,False,True,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,37.514627,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:30.28,False,True,False,True,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,37.632557,dropping off the bucket at the conveyor belt,,0,0,32,660,0
+HBW,2022-07-19 10:02:30.40,False,True,False,True,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,37.751759,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:30.52,False,True,False,True,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,37.878384,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:30.64,False,True,False,True,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,37.99977,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:30.75,False,True,False,True,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.107164,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:30.88,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.233446,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:30.99,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.350885,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.12,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.47935,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.24,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.594995,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.35,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.709275,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.49,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.841806,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.62,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,38.981543,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.77,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.129518,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:31.92,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.272618,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.06,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.414616,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.20,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.560431,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.33,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.682835,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.46,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.813676,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.58,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,39.934212,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.68,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.03974,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.81,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.164238,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:32.95,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.306018,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.08,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.435991,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.20,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.559037,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.31,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.670838,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.47,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.823978,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.59,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,40.945694,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.72,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.08002,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.87,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.223315,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:33.98,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.335742,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.12,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.473086,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.24,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.600952,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.37,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.726813,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.50,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.853104,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.62,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,41.980202,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.75,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.102234,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:34.90,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.260538,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.02,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.372845,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.14,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.492606,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.26,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.613317,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.37,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.724568,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.50,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.85905,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.64,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,42.992672,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.76,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,43.117184,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:35.90,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,43.25562,dropping off the bucket at the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.04,False,True,False,True,True,False,True,True,-512,0,0,0,not ready,unloading a workpiece from slot 2,43.400775,transporting the bucket to the vacuum gripper robot crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.18,False,True,False,True,True,False,True,True,-512,0,0,0,not ready,unloading a workpiece from slot 2,43.53852,transporting the bucket to the vacuum gripper robot crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.32,False,True,False,False,True,False,True,True,-512,0,0,0,not ready,unloading a workpiece from slot 2,43.677428,transporting the bucket to the vacuum gripper robot crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.46,False,True,False,False,True,False,True,True,-512,0,0,0,not ready,unloading a workpiece from slot 2,43.812957,transporting the bucket to the vacuum gripper robot crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.59,False,True,False,False,True,False,True,True,-512,0,0,0,not ready,unloading a workpiece from slot 2,43.951303,transporting the bucket to the vacuum gripper robot crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.75,False,True,False,False,True,False,True,True,-512,0,0,0,not ready,unloading a workpiece from slot 2,44.109172,transporting the bucket to the vacuum gripper robot crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.87,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.230509,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:36.98,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.334087,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.08,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.438958,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.19,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.543458,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.29,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.64776,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.39,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.748906,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.49,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.850754,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.60,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,44.954479,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.70,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.058592,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.81,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.162563,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:37.91,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.267416,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.01,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.370831,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.12,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.473526,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.22,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.578657,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.32,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.681315,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.43,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.78497,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.53,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.890129,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.64,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,45.993574,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.74,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.098714,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.84,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.201257,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:38.95,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.304853,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.05,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.409055,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.16,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.513789,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.26,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.618997,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.36,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.719503,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.47,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.822289,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.57,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,46.92629,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.67,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.029512,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.78,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.134066,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.88,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.236094,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:39.98,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.340135,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.09,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.445357,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.19,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.548259,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.30,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.653429,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.40,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.758829,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.51,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.86236,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.61,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,47.967417,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.72,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,48.071959,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.82,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,48.175214,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:40.92,True,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,48.278394,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:41.05,True,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,48.406029,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:41.19,True,True,False,False,False,False,True,True,0,-512,0,0,not ready,unloading a workpiece from slot 2,48.543698,waiting for the vacuum gripper robot to interact with the bucket,,0,0,0,760,0
+HBW,2022-07-19 10:02:41.33,True,True,False,False,True,False,True,True,0,-512,0,0,not ready,unloading a workpiece from slot 2,48.681935,waiting for the vacuum gripper robot to interact with the bucket,,0,0,0,760,0
+HBW,2022-07-19 10:02:41.46,True,True,False,False,True,False,True,True,0,0,0,0,not ready,unloading a workpiece from slot 2,48.817711,waiting for the vacuum gripper robot to interact with the bucket,,0,0,32,760,0
+HBW,2022-07-19 10:02:41.59,True,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,48.948175,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:41.74,True,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.094226,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:41.87,True,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.228097,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.01,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.365907,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.13,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.488579,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.25,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.610389,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.40,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.753047,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.52,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,49.881072,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.65,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.004601,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.77,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.130312,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:42.92,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.276649,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.07,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.424711,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.21,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.564714,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.34,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.692431,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.46,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.821163,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.59,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,50.951488,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.74,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.100083,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:43.86,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.217037,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.00,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.359352,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.16,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.51682,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.29,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.650282,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.43,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.7902,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.56,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,51.919909,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.68,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.040326,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.82,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.179708,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:44.98,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.334431,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.13,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.488991,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.27,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.623786,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.40,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.754541,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.52,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.87828,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.64,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,52.995788,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.75,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.106372,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:45.89,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.244068,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.00,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.361627,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.13,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.485379,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.25,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.605931,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.39,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.744877,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.54,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,53.897041,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.68,True,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,54.036785,transporting the bucket to the high-bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.83,True,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.190419,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:46.96,True,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.317285,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.09,True,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.444937,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.22,False,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.58106,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.36,False,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.713771,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.48,False,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.833104,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.62,False,True,False,False,True,True,False,True,512,0,0,0,not ready,unloading a workpiece from slot 2,54.981004,transporting the bucket to the high bay warehouse crane jib,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.77,False,True,False,True,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,55.12767,picking up the bucket from the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:47.91,False,True,False,True,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,55.270529,picking up the bucket from the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:48.05,False,True,False,True,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,55.410506,picking up the bucket from the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:48.22,False,True,False,True,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,55.578788,picking up the bucket from the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:48.38,False,True,False,True,True,True,False,True,0,0,0,512,not ready,unloading a workpiece from slot 2,55.73804,picking up the bucket from the conveyor belt,,0,0,32,760,0
+HBW,2022-07-19 10:02:48.51,False,True,False,True,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,55.869581,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:48.66,False,True,False,True,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.021653,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:48.80,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.159102,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:48.92,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.272753,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.04,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.396414,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.17,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.531413,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.29,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.648057,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.44,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.79397,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.57,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,56.923275,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.70,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.052946,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.80,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.160249,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:49.96,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.315035,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.12,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.480338,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.24,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.596248,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.36,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.718733,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.51,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,57.866284,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.65,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.006786,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.79,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.145443,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:50.90,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.26126,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.03,False,True,False,True,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.387471,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.18,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.532634,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.30,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.656009,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.44,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.792108,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.57,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,58.928552,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.71,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.063686,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.82,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.17965,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:51.96,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.318754,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.08,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.439562,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.24,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.592777,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.39,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.745312,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.52,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,59.875028,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.65,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.006368,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.77,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.131407,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:52.94,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.293515,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.07,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.425947,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.20,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.553114,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.34,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.696855,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.48,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,60.83452,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.60,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,60.957256,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.75,False,True,False,False,True,False,True,True,0,512,0,0,not ready,unloading a workpiece from slot 2,61.105248,picking up the bucket from the conveyor belt,,0,0,32,680,0
+HBW,2022-07-19 10:02:53.87,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.230841,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:53.99,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.350441,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.12,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.479143,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.25,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.602439,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.35,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.711359,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.47,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.822071,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.59,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,61.942859,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.70,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.05923,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.82,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.173441,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:54.93,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.291,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.05,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.402576,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.17,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.529756,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.29,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.651515,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.41,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.768026,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.54,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.898042,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.64,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,62.999918,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.75,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.109065,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.87,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.228531,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:55.98,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.333537,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.10,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.454526,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.24,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.59974,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.37,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.725491,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.48,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.834079,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.60,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,63.959307,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.73,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.088277,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.84,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.194826,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:56.96,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.31796,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.10,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.460653,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.22,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.573421,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.34,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.700478,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.49,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.842059,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.62,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,64.978254,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.74,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.094208,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.86,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.215296,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:57.97,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.331438,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:58.12,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.473711,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:58.26,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.615563,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:58.38,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.736209,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:58.50,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,65.858874,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:58.64,False,True,False,False,False,False,True,True,0,0,0,512,not ready,unloading a workpiece from slot 2,66.001299,picking up the bucket from the conveyor belt,,0,0,0,680,0
+HBW,2022-07-19 10:02:58.76,False,True,False,False,False,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.119769,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:58.91,False,True,False,False,False,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.262716,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.02,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.380539,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.14,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.498647,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.28,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.634179,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.39,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.745797,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.51,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.865563,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.62,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,66.975506,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.76,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.11814,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.88,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.235644,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:02:59.99,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.347778,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.11,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.471683,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.24,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.600395,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.38,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.735011,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.50,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.855845,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.62,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,67.976114,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.73,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.088845,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.85,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.206409,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:00.97,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.328697,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.11,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.462307,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.22,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.571802,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.35,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.706091,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.46,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.814572,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.57,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,68.922555,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.68,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.039263,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.80,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.153931,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:01.91,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.267025,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.02,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.376508,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.13,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.486782,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.25,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.604345,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.37,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.723965,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.48,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.833644,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.59,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,69.944021,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.69,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.050798,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.82,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.174709,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:02.93,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.285591,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.04,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.396835,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.15,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.510365,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.27,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.623775,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.39,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.746325,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.52,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,70.881569,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.65,False,True,False,False,True,False,True,False,0,-512,0,0,not ready,unloading a workpiece from slot 2,71.001823,transporting the bucket to the slot 2,,0,0,0,0,0
+HBW,2022-07-19 10:03:03.79,False,True,False,False,True,False,True,False,0,0,0,-512,not ready,unloading a workpiece from slot 2,71.144385,transporting the bucket to the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:03:03.90,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,71.259708,transporting the bucket to the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:03:04.02,False,True,False,False,True,False,True,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,71.373813,transporting the bucket to the slot 2,,0,0,750,0,0
+HBW,2022-07-19 10:03:04.14,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,71.493892,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:04.28,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,71.639469,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:04.41,False,True,False,False,True,False,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,71.766163,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:04.54,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,71.893547,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:04.66,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.01881,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:04.77,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.128177,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:04.90,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.258306,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.05,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.406075,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.16,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.515901,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.29,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.65017,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.41,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.771191,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.54,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,72.900645,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.66,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.01538,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.78,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.140615,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:05.90,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.257114,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.02,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.378375,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.13,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.488395,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.30,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.653652,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.43,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.783444,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.53,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.88831,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.64,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,73.998529,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.75,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.106842,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.86,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.214661,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:06.97,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.330951,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.09,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.443573,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.20,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.560757,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.32,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.678427,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.43,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.784012,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.55,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,74.907747,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.67,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.029579,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.80,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.152234,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:07.92,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.274606,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.03,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.38927,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.15,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.508967,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.26,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.617803,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.37,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.730009,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.49,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.847329,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.61,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,75.969138,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.74,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,76.092282,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:08.85,False,True,False,False,True,True,True,True,0,0,-512,0,not ready,unloading a workpiece from slot 2,76.202414,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:09.00,False,True,False,False,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,76.353501,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:09.13,False,True,False,False,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,76.486305,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:09.26,False,True,False,False,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,76.616387,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:09.37,False,True,False,False,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,76.730387,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:09.48,False,True,False,False,True,True,False,True,0,0,0,-512,not ready,unloading a workpiece from slot 2,76.83587,dropping off the bucket at the slot,,0,0,750,40,0
+HBW,2022-07-19 10:03:09.61,False,True,False,False,True,True,False,True,0,0,0,0,not ready,unloading a workpiece from slot 2,76.964572,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:09.73,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.085582,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:09.87,False,True,False,False,True,True,False,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.221943,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.00,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.35822,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.13,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.486329,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.25,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.611195,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.37,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.728817,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.48,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.835228,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.59,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,77.949947,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.71,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.067434,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.82,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.177357,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:10.94,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.295051,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.07,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.425157,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.19,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.550379,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.30,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.661121,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.43,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.782252,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.54,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,78.892792,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.65,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.008525,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.76,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.120003,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:11.90,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.258468,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.04,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.393724,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.16,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.51653,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.29,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.651652,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.43,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.790959,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.56,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,79.918508,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.68,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.04027,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.81,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.163495,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:12.94,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.298607,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.06,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.41611,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.18,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.53442,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.30,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.658408,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.41,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.763506,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.54,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,80.892894,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.67,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.027882,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.80,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.160089,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:13.93,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.282931,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.05,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.405065,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.18,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.536982,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.29,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.642418,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.40,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.75983,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.52,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,81.87976,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.65,False,True,False,False,True,True,True,True,0,0,512,0,not ready,unloading a workpiece from slot 2,82.003541,dropping off the bucket at the slot,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.75,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.85,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:14.96,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.06,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.17,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.27,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.38,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.48,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.58,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.69,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.79,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:15.90,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.00,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.10,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.21,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.31,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.41,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.52,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.62,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.73,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.83,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:16.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.04,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.24,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.34,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.45,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.55,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.65,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.75,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.86,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:17.96,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.06,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.17,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.27,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.37,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.47,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.58,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.68,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.79,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:18.89,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.00,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.10,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.20,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.31,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.41,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.51,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.61,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.72,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.82,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:19.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.03,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.24,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.34,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.45,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.55,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.66,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.76,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.87,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:20.97,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.07,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.18,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.28,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.39,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.49,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.60,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.70,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.80,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:21.91,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.01,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.12,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.22,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.32,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.43,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.53,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.63,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.74,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.84,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:22.94,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.05,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.15,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.26,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.36,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.46,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.57,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.67,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.78,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.88,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:23.98,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.09,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.19,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.30,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.40,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.51,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.61,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.72,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.82,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:24.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.03,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.24,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.34,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.44,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.54,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.65,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.75,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.86,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:25.96,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.07,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.17,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.27,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.38,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.48,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.59,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.69,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.79,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:26.89,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.00,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.10,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.21,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.31,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.41,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.52,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.62,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.73,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.83,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:27.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.04,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.25,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.35,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.45,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.56,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.66,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.76,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.87,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:28.97,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.07,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.18,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.28,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.39,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.49,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.60,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.70,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.81,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:29.91,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.01,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.12,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.22,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.32,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.42,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.53,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.63,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.73,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.84,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:30.94,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.05,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.15,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.26,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.36,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.46,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.57,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.67,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.77,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.88,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:31.98,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.09,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.19,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.29,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.40,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.50,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.60,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.71,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.81,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:32.91,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.01,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.12,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.22,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.32,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.43,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.53,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.63,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.73,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.84,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:33.94,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.04,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.15,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.26,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.36,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.46,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.57,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.67,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.77,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.88,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:34.98,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.09,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.19,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.29,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.40,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.50,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.61,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.71,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.82,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:35.92,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.02,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.13,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.23,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.34,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.44,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.54,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.65,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.75,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.86,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:36.96,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.06,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.17,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.27,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.38,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.48,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.58,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.69,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.79,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:37.90,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.00,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.11,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.21,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.32,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.42,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.52,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.63,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.73,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.83,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:38.94,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.04,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.15,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.25,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.35,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.46,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.56,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.66,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.77,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.87,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:39.97,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.08,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.18,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.29,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.39,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.49,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.59,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.70,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.80,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:40.91,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.01,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.12,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.22,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.33,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.43,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.53,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.64,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.74,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.85,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:41.95,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.05,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.16,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.26,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.36,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.47,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.57,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.68,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.78,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.88,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:42.99,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.09,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.20,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.30,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.41,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.51,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.61,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.72,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.82,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:43.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.03,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.13,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.23,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.34,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.44,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.55,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.65,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.76,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.86,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:44.96,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.07,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.17,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.28,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.38,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.48,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.59,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.69,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.79,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:45.90,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.00,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.10,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.21,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.31,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.41,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.52,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.62,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.72,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.83,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:46.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.04,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.24,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.34,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.45,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.55,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.66,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.76,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.87,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:47.97,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.07,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.18,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.28,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.38,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.49,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.59,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.70,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.80,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:48.90,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.01,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.11,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.22,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.32,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.42,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.52,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.62,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.73,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.83,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:49.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.04,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.24,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.35,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.45,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.56,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.67,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.77,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.88,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:50.98,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.08,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.18,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.29,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.39,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.50,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.60,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.71,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.81,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:51.92,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.02,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.13,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.23,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.33,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.44,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.54,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.64,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.74,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.85,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:52.95,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.06,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.16,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.26,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.37,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.47,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.57,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.68,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.78,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.88,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:53.98,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.09,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.20,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.30,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.41,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.51,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.62,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.72,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.82,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:54.93,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.03,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.14,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.24,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.35,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.45,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.56,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.66,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.77,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.87,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:55.97,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.07,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.18,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.28,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.39,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.49,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.60,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.70,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.80,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:56.91,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:57.01,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:57.11,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0
+HBW,2022-07-19 10:03:57.22,False,True,False,False,True,False,True,True,0,0,0,0,ready,,0.0,,,0,0,750,140,0

@@ -7,39 +7,39 @@
           type: binary
           data: integer
           partition:
-            - 1: interrupted
-            - 0: not interrupted
+            1: interrupted
+            0: not interrupted
           else: error
       - i4_light_barrier_interrupted:
           type: binary
           data: integer
           partition:
-            - 1: interrupted
-            - 0: not interrupted
+            1: interrupted
+            0: not interrupted
           else: error
       - m3_speed:
           type: discrete
           data: integer
           partition:
-            - 0: inactive
-            - [-512...-1]: active
-            - [1...512]: active
+            0: inactive
+            (-512..-1): active
+            (1..512): active
           else: error
       - m1_speed:
           type: discrete
           data: integer
           partition:
-            - 0: inactive
-            - [-512...-1]: active
-            - [1...512]: active
+            0: inactive
+            (-512..-1): active
+            (1..512): active
           else: error
       - current_state:
           type: discrete
           data: string
           partition:
-            - ready: inactive
-            - inactive: inactive
-            - not ready: active
+            ready: inactive
+            inactive: inactive
+            not ready: active
           else: error
 - group:
     id: qc
@@ -50,8 +50,8 @@
           type: binary
           data: integer
           partition:
-            - 1: active
-            - 0: not active
+            1: active
+            0: not active
           else: error
 - group:
     id: vgr
@@ -61,20 +61,25 @@
       - o7_compressor_power_level:
           type: discrete
           data: integer
+          partition:
+            0: inactive
+            (-512..-1): active
+            (1..512): active
+          else: error
       - o8_valve_open:
           type: binary
           data: integer
           partition:
-            - 1: open
-            - 0: not open
+            1: open
+            0: not open
           else: error
       - current_state:
           type: discrete
           data: string
           partition:
-            - ready: inactive
-            - inactive: inactive
-            - not ready: active
+            ready: inactive
+            inactive: inactive
+            not ready: active
           else: error
       - current_pos_x:
           type: continuous
@@ -91,14 +96,14 @@
           type: binary
           data: integer
           partition:
-            - 1: interrupted
-            - 0: not interrupted
+            1: interrupted
+            0: not interrupted
           else: error
       - current_state:
           type: discrete
           data: string
           partition:
-            - ready: inactive
-            - inactive: inactive
-            - not ready: active
+            ready: inactive
+            inactive: inactive
+            not ready: active
           else: error

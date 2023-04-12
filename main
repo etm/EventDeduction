@@ -1,0 +1,8 @@
+#!/usr/bin/ruby
+require 'csv'
+require 'yaml'
+
+configpath = File.join(__dir__,'annotation_and_grouping.yaml')
+
+pp YAML.load_file(configpath)
+

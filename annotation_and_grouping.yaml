@@ -1,0 +1,104 @@
+- group:
+    id: hb
+    location: data/high_bay.csv
+    timestamp: timestamp
+    sensors:
+      - i1_light_barrier_interrupted:
+          type: binary
+          data: integer
+          partition:
+            - 1: interrupted
+            - 0: not interrupted
+          else: error
+      - i4_light_barrier_interrupted:
+          type: binary
+          data: integer
+          partition:
+            - 1: interrupted
+            - 0: not interrupted
+          else: error
+      - m3_speed:
+          type: discrete
+          data: integer
+          partition:
+            - 0: inactive
+            - [-512...-1]: active
+            - [1...512]: active
+          else: error
+      - m1_speed:
+          type: discrete
+          data: integer
+          partition:
+            - 0: inactive
+            - [-512...-1]: active
+            - [1...512]: active
+          else: error
+      - current_state:
+          type: discrete
+          data: string
+          partition:
+            - ready: inactive
+            - inactive: inactive
+            - not ready: active
+          else: error
+- group:
+    id: qc
+    location: data/sorting_machine.csv
+    timestamp: timestamp
+    sensors:
+      - i6_light_barrier_interrupted:
+          type: binary
+          data: integer
+          partition:
+            - 1: active
+            - 0: not active
+          else: error
+- group:
+    id: vgr
+    location: data/vacuum_gripper.csv
+    timestamp: timestamp
+    sensors:
+      - o7_compressor_power_level:
+          type: discrete
+          data: integer
+      - o8_valve_open:
+          type: binary
+          data: integer
+          partition:
+            - 1: open
+            - 0: not open
+          else: error
+      - current_state:
+          type: discrete
+          data: string
+          partition:
+            - ready: inactive
+            - inactive: inactive
+            - not ready: active
+          else: error
+      - current_pos_x:
+          type: continuous
+      - current_pos_y:
+          type: continuous
+      - current_pos_z:
+          type: continuous
+- group:
+    id: oven
+    location: data/oven.csv
+    timestamp: timestamp
+    sensors:
+      - i5_light_barrier_interrupted:
+          type: binary
+          data: integer
+          partition:
+            - 1: interrupted
+            - 0: not interrupted
+          else: error
+      - current_state:
+          type: discrete
+          data: string
+          partition:
+            - ready: inactive
+            - inactive: inactive
+            - not ready: active
+          else: error

@@ -4,8 +4,11 @@ require 'time'
 
 module EvDed
   class Series
+    attr_accessor :classification
+
     def initialize
       @series = {}
+      @classification = 1
     end
     def [](time)
       @series[time]
@@ -28,40 +31,59 @@ module EvDed
     end
   end
 
-  def self::load_and_transform(configpath)
+  def self::load_transform_classify(configpath)
     data = {}
     groups = YAML.load_file(configpath)
     groups.each do |g|
       g = g['group']
       id = g.dig('id')
       data[id] ||= {}
-      CSV.foreach(g.dig('location'), headers: true) do |row|
-        ts = Time.parse(row[g.dig('timestamp')])
-        g.dig('sensors').each do |s|
-          name = s.keys.first
-          details = s[name]
-          value = row[name]
-          ty = details.dig('type').nil? ? 'discrete' : details.dig('type')
-          da = if details.dig('data').nil?
-            case ty
-              when 'continuous'; 'float'
-              when 'discrete'; 'string'
-              when 'binary'; 'string'
-            end
-          else
-            details.dig('data')
+      g.dig('sensors').each do |s|
+        name = s.keys.first
+        details = s[name]
+        ty = details.dig('type').nil? ? 'discrete' : details.dig('type')
+        da = if details.dig('data').nil?
+          case ty
+            when 'continuous'; 'float'
+            when 'discrete'; 'string'
+            when 'binary'; 'string'
           end
+        else
+          details.dig('data')
+        end
 
-          data[id][name] ||= Series.new
+        data[id][name] ||= Series.new
+
+        case ty
+          when 'continuous'; data[id][name].classification = 20000
+          when 'discrete'; data[id][name].classification = 10000
+          when 'binary'; data[id][name].classification = 0
+        end
+        part = details.dig('partition')
+        if part
+          data[id][name].classification += part.keys.uniq.length - part.values.uniq.length
+          data[id][name].classification += case da
+            when 'integer'; part.keys.map{|e| e.is_a?(Integer) ? 0 : 1}
+            when 'float'; part.keys.map{|e|e.is_a?(Float) ? 0 : 1}
+            else; []
+          end.sum
+        else
+          data[id][name].classification += (data[id][name].classification - 1)
+        end
+
+        CSV.foreach(g.dig('location'), headers: true) do |row|
+          ts = Time.parse(row[g.dig('timestamp')])
+          value = row[name]
           data[id][name][ts] = case da
             when 'integer'; value.to_i
             when 'float'; value.to_f
             when 'string'; value
             when 'datetime'; Time.parse(value)
           end
-          res = []
-          if details.dig('partition')
-            details.dig('partition').each do |k,v|
+
+          if part = details.dig('partition')
+            res = []
+            part.each do |k,v|
               ev = case da
                 when 'integer', 'float'; eval(k.to_s)
                 when 'string', 'datetime'; k
@@ -81,6 +103,8 @@ module EvDed
           end
         end
       end
+      so = data[id].map{|k,sensor|sensor.classification}.sort
+      data[id].each{|k,sensor| sensor.classification = so.index(sensor.classification)}
     end
     data
   end

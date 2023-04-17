@@ -27,3 +27,9 @@
 #   i5_light_barrier_interrupted: 2
 #   current_state: 1
 
+Step 5:
+* Symbolic Aggregate approXimation (SAX) for both pairs
+* If not same dimension (num of discrete values) reduce number of dimensions by kmeans(dimension) of the y axis for the series with the higher dimension
+* check for same patterns at same position
+
+Compression Based Similarity/Dissimilarity?!

@@ -33,3 +33,5 @@ Step 5:
 * check for same patterns at same position
 
 Compression Based Similarity/Dissimilarity?!
+
+Alternatives? Mape? Pearson correlation coefficient? Dtw?

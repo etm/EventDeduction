@@ -29,6 +29,21 @@ module EvDed
       end
       { ft => @series[ft] }
     end
+    def time_map(times)
+      time = Time.parse(time) if time.is_a?(String)
+      ft = Time.at(0)
+      @series.keys.each do |t|
+        if (t - time).abs < (ft - time).abs || ft == -1
+          ft = t
+        end
+      end
+      { ft => @series[ft] }
+    end
+    def each(&block)
+      @series.each do |t,v|
+        block.call(t,v)
+      end
+    end
   end
 
   def self::load_transform_classify(configpath)

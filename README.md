@@ -28,6 +28,8 @@
 #   current_state: 1
 
 Step 5:
+* Create superset of timestamps
+* Fill missing values for each sensor with linearly interpolated values
 * Symbolic Aggregate approXimation (SAX) for both pairs
 * If not same dimension (num of discrete values) reduce number of dimensions by kmeans(dimension) of the y axis for the series with the higher dimension
 * check for same patterns at same position
@@ -35,3 +37,5 @@ Step 5:
 Compression Based Similarity/Dissimilarity?!
 
 Alternatives? Mape? Pearson correlation coefficient? Dtw?
+
+Multivariant Timeseries Clustering:

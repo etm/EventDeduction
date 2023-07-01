@@ -1,6 +1,7 @@
 require 'csv'
 require 'yaml'
 require 'time'
+require 'json'
 
 module EvDed
   class Series
@@ -29,15 +30,20 @@ module EvDed
       end
       { ft => @series[ft] }
     end
-    def time_map(times)
-      time = Time.parse(time) if time.is_a?(String)
-      ft = Time.at(0)
-      @series.keys.each do |t|
-        if (t - time).abs < (ft - time).abs || ft == -1
-          ft = t
+    def set(series)
+      @series = series
+    end
+    def time_map(times) ### TODO linear axproximation
+      ret = {}
+      t = Time.at(0)
+      stimes = @series.keys
+      times.each do |time|
+        while !t.nil? && time > t
+          t = stimes.shift
         end
+        ret[time] = @series[t || @series.keys.last]
       end
-      { ft => @series[ft] }
+      ret
     end
     def each(&block)
       @series.each do |t,v|

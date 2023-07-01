@@ -37,22 +37,22 @@ groups.each do |k,sensors|
   end
 end
 
-ngroup = groups.map do |k,sensors|
+timestamps.uniq!
+p timestamps.length
+
+ngroups = groups.map do |k,sensors|
   [
     k, sensors.map{ |l,series|
       ret = EvDed::Series.new
       ret.classification = series.classification
-      timestamps.each do |t|
-        series[t] = series.find(t)
-      end
-      series
-      [ l, ret ]
+      ret.set series.time_map(timestamps )
+      [l,ret]
     }
   ]
 end
 
 puts "Groups, sensors, number of data points and classification:"
-groups.each do |k,sensors|
+ngroups.each do |k,sensors|
   puts "  #{k}"
   sensors.each do |k,series|
     puts "    #{k}: #{series.length} (#{series.classification})"

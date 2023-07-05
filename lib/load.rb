@@ -52,6 +52,29 @@ module EvDed
     end
   end
 
+  def self::align_timestamps(groups)
+    timestamps = []
+    groups.each do |k,sensors|
+      sensors.each do |l,series|
+        series.each do |t,val|
+          timestamps << Time.at(t.to_f.round(1))
+        end
+      end
+    end
+
+    timestamps.uniq!
+    groups.map do |k,sensors|
+      [
+        k, sensors.map{ |l,series|
+          ret = EvDed::Series.new
+          ret.classification = series.classification
+          ret.set series.time_map(timestamps )
+          [l,ret]
+        }.to_h
+      ]
+    end.to_h
+  end
+
   def self::load_transform_classify(configpath)
     data = {}
     groups = YAML.load_file(configpath)

@@ -27,7 +27,7 @@
 #   i5_light_barrier_interrupted: 2
 #   current_state: 1
 
-Step 5:
+Step 4:
 * Create superset of timestamps
 * Fill missing values for each sensor with linearly interpolated values
 * Symbolic Aggregate approXimation (SAX) for both pairs

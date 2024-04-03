@@ -1,0 +1,42 @@
+- group:
+    id: t1
+    location: test/test1.csv
+    timestamp: timestamp
+    sensors:
+      - t1a:
+          type: binary
+          data: integer
+          partition:
+            1: interrupted
+            0: not interrupted
+          else: error
+      - t1b:
+          type: discrete
+          data: integer
+          partition:
+            0: inactive
+            (-512..-1): active
+            (1..512): running
+          else: error
+      - t1c:
+          type: discrete
+          data: string
+          partition:
+            ready: inactive
+            inactive: inactive
+            not ready: active
+          else: error
+- group:
+    id: t2
+    location: test/test2.csv
+    timestamp: timestamp
+    sensors:
+      - t2a:
+          type: binary
+          data: integer
+          partition:
+            1: active
+            0: inactive
+          else: error
+      - t2b:
+          type: continuous

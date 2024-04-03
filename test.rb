@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 require_relative 'lib/load'
 
-groups = EvDed::load_transform_classify(File.join(__dir__,'annotation_and_grouping.yaml'))
+groups = EvDed::load_transform_classify(File.join(__dir__,'test.yaml'))
 
 puts "Groups, sensors, number of data points and classification:"
 groups.each do |k,sensors|

@@ -68,7 +68,33 @@ module EvDed
         k, sensors.map{ |l,series|
           ret = EvDed::Series.new
           ret.classification = series.classification
-          ret.set series.time_map(timestamps )
+          ret.set series.time_map(timestamps)
+          [l,ret]
+        }.to_h
+      ]
+    end.to_h
+  end
+
+  def self::sax(groups)
+    values = []
+    groups.each do |k,sensors|
+      sensors.each do |l,series|
+        series.each do |t,val|
+          values << val
+        end
+      end
+    end
+
+    p values.uniq.length
+    exit
+
+    timestamps.uniq!
+    groups.map do |k,sensors|
+      [
+        k, sensors.map{ |l,series|
+          ret = EvDed::Series.new
+          ret.classification = series.classification
+          ret.set series.time_map(timestamps)
           [l,ret]
         }.to_h
       ]

@@ -51,7 +51,7 @@
           data: integer
           partition:
             1: active
-            0: not active
+            0: inactive
           else: error
 - group:
     id: vgr
@@ -71,7 +71,7 @@
           data: integer
           partition:
             1: open
-            0: not open
+            0: closed
           else: error
       - current_state:
           type: discrete

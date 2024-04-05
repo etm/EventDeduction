@@ -85,20 +85,11 @@ module EvDed
       end
     end
 
+    pp values
+
     p values.uniq.length
     exit
 
-    timestamps.uniq!
-    groups.map do |k,sensors|
-      [
-        k, sensors.map{ |l,series|
-          ret = EvDed::Series.new
-          ret.classification = series.classification
-          ret.set series.time_map(timestamps)
-          [l,ret]
-        }.to_h
-      ]
-    end.to_h
   end
 
   def self::load_transform_classify(configpath)

@@ -5,7 +5,7 @@
 # more sem anno than less (current_pos_x is the worst)
 # binary with 2 partitions or no partitions is best
 # binary with more than 2 partitions is worse
-# discrete with no ranges in partitions with better than discrete with ranges
+# discrete with no ranges in partitions is better than discrete with ranges
 # discrete with same dimensions is better than discrete with dimension reduction
 ### Expected results
 # hb

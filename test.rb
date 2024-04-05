@@ -29,6 +29,7 @@ puts "\nStep 4: ..."
 # qc_i6, vgr_o7, vgr_st
 
 groups = EvDed::align_timestamps(groups)
+pp groups
 
 groups = EvDed::sax(groups)
 

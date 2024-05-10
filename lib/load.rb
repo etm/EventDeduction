@@ -132,8 +132,10 @@ module EvDed
           data[id][name].classification += (data[id][name].classification - 1)
         end
 
-        CSV.foreach(g.dig('location'), headers: true) do |row|
-          ts = Time.parse(row[g.dig('timestamp')])
+        loc = details.dig('location') ? details.dig('location') : g.dig('location')
+        tsn = details.dig('timestamp') ? details.dig('timestamp') : g.dig('timestamp')
+        CSV.foreach(loc, headers: true) do |row|
+          ts = Time.parse(row[tsn]) rescue Time.at(row[tsn].to_i)
           value = row[name]
           data[id][name][ts] = case da
             when 'integer'; value.to_i

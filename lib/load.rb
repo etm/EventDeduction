@@ -3,13 +3,17 @@ require 'yaml'
 require 'time'
 require 'json'
 
+#require 'kmeans-clusterer'
+
 module EvDed
   class Series
     attr_accessor :classification
+    attr_reader :changes
 
     def initialize
       @series = {}
       @classification = 1
+      @changes = []
     end
     def [](time)
       @series[time]
@@ -19,6 +23,10 @@ module EvDed
     end
     def []=(time,value)
       @series[time] = value
+    end
+    def get_times()
+      #@series.keys()
+      @series.map() { |k,v| k }
     end
     def find(time)
       time = Time.parse(time) if time.is_a?(String)
@@ -30,8 +38,9 @@ module EvDed
       end
       { ft => @series[ft] }
     end
-    def set(series)
+    def set(series, changes = [])
       @series = series
+      @changes = changes
     end
     def time_map(times) ### TODO linear axproximation
       ret = {}
@@ -45,11 +54,39 @@ module EvDed
       end
       ret
     end
+    def change_calc()
+      changes = []
+      last = nil
+      @series.each() { |timestamp,value|
+        if(!last.nil?() && last != value)
+          changes.push(Time.at(timestamp.to_f.round(1)))
+        end
+        last = value
+      }
+      changes
+    end
     def each(&block)
       @series.each do |t,v|
         block.call(t,v)
       end
     end
+    #def sax()
+    #  values = []
+    #  @series.each do |t,val|
+    #    values << val
+    #  end
+    #  pp values
+    #  pp values.uniq.length
+    #  if(values.first().is_a?(String))
+    #    values.map!()
+    #  end 
+    #  k = 2
+    #  kmeans = KMeansClusterer.run k, values, runs: 5
+    #  values.each() { |value|
+    #    kmeans.predict(value)
+    #  }
+    #end
+
   end
 
   def self::align_timestamps(groups)
@@ -68,13 +105,14 @@ module EvDed
         k, sensors.map{ |l,series|
           ret = EvDed::Series.new
           ret.classification = series.classification
-          ret.set series.time_map(timestamps)
+          ret.set(series.time_map(timestamps),series.change_calc())
           [l,ret]
         }.to_h
       ]
     end.to_h
   end
 
+=begin
   def self::sax(groups)
     values = []
     groups.each do |k,sensors|
@@ -85,12 +123,14 @@ module EvDed
       end
     end
 
-    pp values
+    #pp values
 
-    p values.uniq.length
+    #p values.uniq.length
     exit
 
   end
+=end
+
 
   def self::load_transform_classify(configpath)
     data = {}

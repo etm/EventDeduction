@@ -1,6 +1,6 @@
 - group:
     id: hb
-    location: data/high_bay.csv
+    location: data/trier/high_bay.csv
     timestamp: timestamp
     sensors:
       - i1_light_barrier_interrupted:
@@ -43,7 +43,7 @@
           else: error
 - group:
     id: qc
-    location: data/sorting_machine.csv
+    location: data/trier/sorting_machine.csv
     timestamp: timestamp
     sensors:
       - i6_light_barrier_interrupted:
@@ -55,7 +55,7 @@
           else: error
 - group:
     id: vgr
-    location: data/vacuum_gripper.csv
+    location: data/trier/vacuum_gripper.csv
     timestamp: timestamp
     sensors:
       - o7_compressor_power_level:
@@ -89,7 +89,7 @@
           type: continuous
 - group:
     id: oven
-    location: data/oven.csv
+    location: data/trier/oven.csv
     timestamp: timestamp
     sensors:
       - i5_light_barrier_interrupted:

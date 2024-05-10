@@ -1,6 +1,6 @@
 - group:
     id: t1
-    location: test/test1.csv
+    location: data/test/test1.csv
     timestamp: timestamp
     sensors:
       - t1a:
@@ -28,7 +28,7 @@
           else: error
 - group:
     id: t2
-    location: test/test2.csv
+    location: data/test/test2.csv
     timestamp: timestamp
     sensors:
       - t2a:

@@ -1,0 +1,84 @@
+- group:
+    id: buffer
+    timestamp: timestamp
+    sensors:
+      - conveyor_energy_consumption:
+          location: data/ronny/1.csv
+          type: discrete
+          data: integer
+          partition:
+            0: 0
+            1: 1
+            2: 2
+          else: error
+      - conveyor_light_barrier:
+          location: data/ronny/2.csv
+          type: binary
+          data: integer
+          partition:
+            0: 0
+            1: 1
+          else: error
+      - crane_y:
+          location: data/ronny/3.csv
+          type: discrete
+          data: integer
+          partition:
+            0: 0
+            1: 1
+            2: 2
+          else: error
+      - crane_x:
+          location: data/ronny/4.csv
+          type: discrete
+          data: integer
+          partition:
+            0: 0
+            1: 1
+            2: 2
+            3: 3
+          else: error
+- group:
+    id: oven
+    timestamp: timestamp
+    sensors:
+      - oven_door:
+          location: data/ronny/5.csv
+          type: binary
+          data: integer
+          partition:
+            0: 0
+            1: 1
+          else: error
+      - oven_energy_consumption:
+          location: data/ronny/6.csv
+          type: discrete
+          data: integer
+          partition:
+            0: 0
+            1: 1
+            2: 2
+          else: error
+- group:
+    id: stockpile
+    timestamp: timestamp
+    sensors:
+      - crane_y:
+          location: data/ronny/3.csv
+          type: discrete
+          data: integer
+          partition:
+            0: 0
+            1: 1
+            2: 2
+          else: error
+      - crane_x:
+          location: data/ronny/4.csv
+          type: discrete
+          data: integer
+          partition:
+            0: 0
+            1: 1
+            2: 2
+            3: 3
+          else: error

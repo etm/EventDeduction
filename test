@@ -1,7 +1,8 @@
 #!/usr/bin/ruby
 require_relative 'lib/load'
 
-groups = EvDed::load_transform_classify(File.join(__dir__,'data','test.yaml'))
+#groups = EvDed::load_transform_classify(File.join(__dir__,'data','test.yaml'))
+groups = EvDed::load_transform_classify(File.join(__dir__,'data','ronny.yaml'))
 
 puts "Groups, sensors, number of data points and classification:"
 groups.each do |k,sensors|
@@ -79,7 +80,7 @@ groups.each() {|group,sensors|
   changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
     x = 0
     changes_per_timestamp[:timestamps].each() { |timestamp,participating_sensors|
-      pp "#{sensor} -> #{timestamp} -> #{participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : max_importance - participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]}}"
+      # pp "#{sensor} -> #{timestamp} -> #{participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : max_importance - participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]}}"
       x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : max_importance - participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]}
     }
     pp "#{sensor} -> #{x}"

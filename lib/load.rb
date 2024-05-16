@@ -6,7 +6,7 @@ require 'json'
 #require 'kmeans-clusterer'
 
 module EvDed
-  class Series
+  class Series #{{{
     attr_accessor :classification
     attr_reader :changes
 
@@ -70,9 +70,9 @@ module EvDed
         block.call(t,v)
       end
     end
-  end
+  end #}}}
 
-  def self::align_timestamps(groups)
+  def self::align_timestamps(groups) #{{{
     timestamps = []
     groups.each do |k,sensors|
       sensors.each do |l,series|
@@ -93,9 +93,9 @@ module EvDed
         }.to_h
       ]
     end.to_h
-  end
+  end #}}}
 
-  def self::joint_changes_naive(groups)
+  def self::joint_changes_naive(groups) #{{{
     changes = {}
     stamps = []
     groups.each do |k,sensors|
@@ -124,15 +124,87 @@ module EvDed
       end
     end
     tseries
-  end
+  end #}}}
 
+  def self::sensor_importance_naive(groups,tseries) #{{{
+    prios_timestamp_per_sensor = {}
+    max_prios = {}
+    tseries.each do |t,v|
+      alpha = v.length
 
-  def self::sensor_importance_naive(groups,tseries)
+      ### find best matching group
+      best_match = nil
+      best_match_len = 0
+      success = false
+      groups.each do |k,sensors|
+        if sensors.keys.intersection(v) == v
+          prios_timestamp_per_sensor[t] ||= {}
+          v.each do |sname|
+            prios_timestamp_per_sensor[t][sname] = sensors[sname].classification
+          end
+          success = true
+        else
+          ### if not in group remember how good it matched
+          if sensors.keys.intersection(v).length > best_match_len
+            best_match_len =  sensors.keys.intersection(v).length
+            best_match = sensors
+          end
+        end
+        ### also remember all the max sensor priorities (min) for later, i.e., should be find no good match
+        sensors.each do |sname,v|
+          if max_prios[sname].nil?
+            max_prios[sname] = v.classification
+          else
+            max_prios[sname] = [max_prios[sname],v.classification].min
+          end
+        end
+      end
 
-  end
+      ### if wo found no exact group, use the best, and fill all missing sensors with the max sensor prios
+      unless success
+        v.each do |sname|
+          prios_timestamp_per_sensor[t] ||= {}
+          prios_timestamp_per_sensor[t][sname] = best_match[sname]&.classification || max_prios[sname]
+        end
+      end
 
+      ### calculate the prios
+      prios_timestamp_per_sensor[t].each do |sname,prio|
+        prios_timestamp_per_sensor[t][sname] = alpha  * 1/prio.to_f
+      end
+    end
 
-  def self::load_transform_classify(configpath)
+    ### sum up all the sensors, and count how often it occurs
+    res_sum = {}
+    res_num = {}
+    prios_timestamp_per_sensor.each do |t,sensors|
+      sensors.each do |s,prio|
+        res_sum[s] ||= 0
+        res_sum[s] += prio
+        res_num[s] ||= 0
+        res_num[s] += 1
+      end
+    end
+
+    ### calculate importance
+    res_imp = {}
+    res_sum.each do |s,prio_sum|
+      res_imp[s] = [prio_sum / res_num[s].to_f,[]]
+    end
+
+    ### attach timestamp
+    res_imp.each do |s,imp|
+      tseries.each do |t,v|
+        if v.include? s
+          res_imp[s][1] << t
+        end
+      end
+    end
+
+    res_imp.sort_by{ |k,v| v[0] }.reverse.to_h
+  end #}}}
+
+  def self::load_transform_classify(configpath) #{{{
     data = {}
     groups = YAML.load_file(configpath)
     groups.each do |g|
@@ -214,5 +286,12 @@ module EvDed
       data[id].each{|k,sensor| sensor.classification = so.index(sensor.classification) + 1}
     end
     data
-  end
+  end #}}}
+
+  def self::fts(ts) #{{{
+    ts.year == 1970 ? ts.to_i : ts
+  end #}}}
+  def self::ftsa(tss) #{{{
+    tss.map { |ts| fts(ts) }
+  end #}}}
 end

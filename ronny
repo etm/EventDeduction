@@ -15,11 +15,11 @@ puts "\nStep 4: Sensor and joint changes ..."
 groups = EvDed::align_timestamps(groups)
 jcs = EvDed::joint_changes_naive(groups)
 jcs.each do |t,v|
-  puts "  #{t}: #{v.length}, #{v}"
+  puts "  #{EvDed::fts(t)}: #{v.length}, #{v}"
 end
 
 puts "\nStep 5: Sensor Importance ..."
 sis = EvDed::sensor_importance_naive(groups, jcs)
 sis.each do |s,i|
-  puts "  #{s}: #{i[0]}, #{i[1]}"
+  puts "  #{s}: #{i[0].round(3)}, #{EvDed::ftsa(i[1])}"
 end

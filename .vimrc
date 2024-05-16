@@ -1,1 +1,1 @@
-map <F10> :!./main<CR>
+map <F9> :!./ronny<CR>

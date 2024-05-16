@@ -41,7 +41,7 @@ groups.each() {|group,sensors|
       characteristics[:changes].include?(ts)
     }.keys()
   }
-  pp changes_per_timestamp
+  # pp changes_per_timestamp
 
   max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
   changes_per_timestamp[:participating_sensors].each() { |sensor,classification|

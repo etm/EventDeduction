@@ -211,7 +211,7 @@ module EvDed
         end
       end
       so = data[id].map{|k,sensor|sensor.classification}.sort
-      data[id].each{|k,sensor| sensor.classification = so.index(sensor.classification)}
+      data[id].each{|k,sensor| sensor.classification = so.index(sensor.classification) + 1}
     end
     data
   end

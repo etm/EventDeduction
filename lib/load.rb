@@ -70,23 +70,6 @@ module EvDed
         block.call(t,v)
       end
     end
-    #def sax()
-    #  values = []
-    #  @series.each do |t,val|
-    #    values << val
-    #  end
-    #  pp values
-    #  pp values.uniq.length
-    #  if(values.first().is_a?(String))
-    #    values.map!()
-    #  end 
-    #  k = 2
-    #  kmeans = KMeansClusterer.run k, values, runs: 5
-    #  values.each() { |value|
-    #    kmeans.predict(value)
-    #  }
-    #end
-
   end
 
   def self::align_timestamps(groups)
@@ -112,24 +95,41 @@ module EvDed
     end.to_h
   end
 
-=begin
-  def self::sax(groups)
-    values = []
+  def self::joint_changes_naive(groups)
+    changes = {}
+    stamps = []
     groups.each do |k,sensors|
       sensors.each do |l,series|
+        changes[l] = {}
+        pval = nil
         series.each do |t,val|
-          values << val
+          changes[l][t] = if !pval.nil? && val != pval
+            1
+          else
+            0
+          end
+          pval = val
+          stamps << t
+        end
+        stamps.uniq!
+      end
+    end
+    tseries = {}
+    stamps.each do |t|
+      changes.each do |l,v|
+        if v[t] == 1
+          tseries[t] ||= []
+          tseries[t] << l
         end
       end
     end
+    tseries
+  end
 
-    #pp values
 
-    #p values.uniq.length
-    exit
+  def self::sensor_importance_naive(groups,tseries)
 
   end
-=end
 
 
   def self::load_transform_classify(configpath)
@@ -175,7 +175,11 @@ module EvDed
         loc = details.dig('location') ? details.dig('location') : g.dig('location')
         tsn = details.dig('timestamp') ? details.dig('timestamp') : g.dig('timestamp')
         CSV.foreach(loc, headers: true) do |row|
-          ts = Time.parse(row[tsn]) rescue Time.at(row[tsn].to_i)
+          if row[tsn].to_i < 100000
+            ts = Time.at(row[tsn].to_i)
+          else
+            ts = Time.parse(row[tsn]) rescue Time.at(row[tsn].to_i)
+          end
           value = row[name]
           data[id][name][ts] = case da
             when 'integer'; value.to_i

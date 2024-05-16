@@ -60,7 +60,7 @@ puts "\nStep 5: ..."
 #puts groups['vgr']['current_state'].find(stime)
 
 groups.each() {|group,sensors|
-  puts "group #{group}:"
+  puts "  group #{group}:"
   timestamps = sensors.map() { |sensor,series|
     series.get_times()
   }.flatten().uniq()
@@ -74,7 +74,7 @@ groups.each() {|group,sensors|
       characteristics[:changes].include?(ts)
     }.keys()
   }
-  pp changes_per_timestamp
+  # pp changes_per_timestamp
 
   max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
   changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
@@ -84,7 +84,7 @@ groups.each() {|group,sensors|
       x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : max_importance - participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]}
       #x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : 0
     }
-    pp "#{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
+    puts "    #{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
   }
 
 }

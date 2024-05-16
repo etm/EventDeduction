@@ -68,7 +68,7 @@ groups.each() {|group,sensors|
     [sensor,{:changes => series.changes, :classification => series.classification}]
   }.to_h()
 
-  changes_per_timestamp = {:participating_sensors => change_list.map() { |sensor_name, sensor_info| [sensor_name,3-sensor_info[:classification]] }.to_h(), :timestamps => {}}
+  changes_per_timestamp = {:participating_sensors => change_list.map() { |sensor_name, sensor_info| [sensor_name,1.0/sensor_info[:classification]] }.to_h(), :timestamps => {}}
   timestamps.each() { |ts|
     changes_per_timestamp[:timestamps][ts] = change_list.filter() { |name,characteristics|
       characteristics[:changes].include?(ts)
@@ -78,12 +78,13 @@ groups.each() {|group,sensors|
 
   max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
   changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
-    x = 0
+   max_importance_sensor = max_importance - changes_per_timestamp[:participating_sensors][sensor]
+    x = 0.0
     changes_per_timestamp[:timestamps].each() { |timestamp,participating_sensors|
-      # pp "#{sensor} -> #{timestamp} -> #{participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : max_importance - participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]}}"
       x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : max_importance - participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]}
+      #x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |sensor,_| changes_per_timestamp[:participating_sensors][sensor]} : 0
     }
-    pp "#{sensor} -> #{x}"
+    pp "#{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
   }
 
 }

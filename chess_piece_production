@@ -1,0 +1,60 @@
+#!/usr/bin/ruby
+require_relative 'lib/load'
+
+groups = EvDed::load_transform_classify(File.join(__dir__,'data','chess_piece_production.yaml'))
+
+puts "Groups, sensors, number of data points and classification:"
+groups.each do |k,sensors|
+  puts "  #{k}"
+  sensors.each do |k,series|
+    puts "    #{k}: #{series.length} (#{series.classification})"
+  end
+end
+
+puts "\nStep 4: ..."
+groups = EvDed::align_timestamps(groups)
+
+puts "  integrated into step 5"
+
+
+puts "\nStep 5: ..."
+###
+# groesste Gruppe, mit der hoechsten class innerhalb
+
+#stime = '2022-07-19 10:02:57.22 +0200'
+#print "\nSearching for '#{stime}' in vgr/current_state: "
+#puts groups['vgr']['current_state'].find(stime)
+
+groups.each() {|group,sensors|
+  puts "  #{group}:"
+  timestamps = sensors.map() { |sensor,series|
+    series.get_times()
+  }.flatten().uniq()
+  change_list = sensors.map() { |sensor,series|
+    [sensor,{:changes => series.changes, :classification => series.classification}]
+  }.to_h()
+
+  changes_per_timestamp = {:participating_sensors => change_list.map() { |sensor_name, sensor_info| [sensor_name,1.0/sensor_info[:classification]] }.to_h(), :timestamps => {}}
+  timestamps.each() { |ts|
+    changes_per_timestamp[:timestamps][ts] = change_list.filter() { |name,characteristics|
+      characteristics[:changes].include?(ts)
+    }.keys()
+  }
+  # pp changes_per_timestamp
+
+  max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
+  changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
+    max_importance_sensor = max_importance - changes_per_timestamp[:participating_sensors][sensor]
+    x = 0.0
+    changes_per_timestamp[:timestamps].each() { |timestamp,participating_sensors|
+      #x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |s,_| s == sensor ? 0.0 : changes_per_timestamp[:participating_sensors][s]} : max_importance_sensor - participating_sensors.sum() { |s,_| s == sensor ? 0.0 : changes_per_timestamp[:participating_sensors][s]}
+      x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]} : max_importance - participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]}
+    }
+    #puts "    #{sensor} -> #{x} / #{max_importance_sensor*changes_per_timestamp[:timestamps].length()}"
+    puts "    #{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
+  }
+
+}
+
+
+# pp data

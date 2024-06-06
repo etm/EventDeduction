@@ -23,15 +23,17 @@ def wrap(s, width=78, indent=23)
 	return lines.join "\n"
 end
 
-def minmax_extract(minmax,k,points)
+def minmax_extract(points)
+  ret = nil
   points.each do |p|
     value = p[:value]
     if value.is_a?(Integer) || value.is_a?(Float)
-      minmax[k] ||= [value,value]
-      minmax[k][0] = value if minmax[k][0] > value # min
-      minmax[k][1] = value if minmax[k][1] < value # max
+      ret ||= [value,value]
+      ret[0] = value if ret[0] > value # min
+      ret[1] = value if ret[1] < value # max
     end
   end unless points.nil?
+  ret
 end
 
 ARGV.options { |opt|
@@ -132,16 +134,15 @@ to_write = []
 to_write.push('group' => {'id' => 'all', 'timestamp' => 'timestamp'})
 
 to_write.first()['group']['sensors'] = []
-minmax = {}
-data.each() { |k,v| minmax_extract(minmax,k,v[:points]) }
 data.map do |k,v|
+  mm = minmax_extract(v[:points])
   ret = {'location' => File.join(target,"#{k}.csv"), 'type' => v[:type], 'data' => v[:data]}
   if v[:data] == 'float'
     ret['data-round'] = 2
   end
   if v[:data] == 'integer' || v[:data] == 'float'
-    ret['data-min'] = minmax[k][0]
-    ret['data-max'] = minmax[k][1]
+    ret['data-min'] = mm[0]
+    ret['data-max'] = mm[1]
   end
   [k,ret]
 end.to_h.each { |k,v| to_write.first()['group']['sensors'].push({k => v}) }

@@ -40,9 +40,13 @@ groups.each() {|group,sensors|
       characteristics[:changes].include?(ts)
     }.keys()
   }
-  pp changes_per_timestamp
+  #pp changes_per_timestamp
+  puts "    sensors: #{changes_per_timestamp[:participating_sensors]}"
+  puts "    changes: \n      #{changes_per_timestamp[:timestamps].sort() {|a,b| a <=> b}.map() { |k,v| "#{k.strftime('%Y-%m-%dT%H:%M:%S.%L')}:#{v}" }.join("\n      ") }"
 
-  max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
+
+    max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
+  results = []
   changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
     max_importance_sensor = max_importance - changes_per_timestamp[:participating_sensors][sensor]
     x = 0.0
@@ -51,7 +55,12 @@ groups.each() {|group,sensors|
       x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]} : max_importance - participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]}
     }
     #puts "    #{sensor} -> #{x} / #{max_importance_sensor*changes_per_timestamp[:timestamps].length()}"
-    puts "    #{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
+
+    #puts "    #{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
+    results.push({:sensor => sensor, :value => x, :max_value => max_importance*changes_per_timestamp[:timestamps].length()})
+  }
+  results.sort() { |a,b| b[:value] <=> a[:value] }.each() { |result|
+    puts "    #{result[:sensor]} -> #{result[:value]} / #{result[:max_value]}"
   }
 
 }

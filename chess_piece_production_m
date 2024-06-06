@@ -42,7 +42,7 @@ groups.each() {|group,sensors|
   }
   #pp changes_per_timestamp
   puts "    sensors: #{changes_per_timestamp[:participating_sensors]}"
-  puts "    changes: \n      #{changes_per_timestamp[:timestamps].sort() {|a,b| a <=> b}.map() { |k,v| "#{k.strftime('%Y-%m-%dT%H:%M:%S.%L')}:#{v}" }.join("\n      ") }"
+  puts "    changes: \n      #{changes_per_timestamp[:timestamps].sort() {|a,b| a <=> b}.map() { |k,v| "#{k.strftime('%Y-%m-%dT%H:%M:%S.%1N')}:#{v}" }.join("\n      ") }"
 
 
     max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}

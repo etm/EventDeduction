@@ -28,10 +28,16 @@ yaml.each() { |item|
         id.gsub!(%r!/!,'_')
         value = el.dig('stream:point','stream:value')
         timestamp = el.dig('stream:point','stream:timestamp')
+        t = nil
+        begin
+          t = Time.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%N%:z')
+        rescue
+          t = Time.strptime(timestamp + '+02:00', '%Y-%m-%dT%H:%M:%S.%N%:z')
+        end
         if(!data.include?(id)) then
           data[id] = {:points => []}
         end
-        data[id][:points].push({:value => value, :timestamp => timestamp})
+        data[id][:points].push({:value => value, :timestamp => t.strftime('%Y-%m-%d %H:%M:%S.%L')})
       end
     }
   end

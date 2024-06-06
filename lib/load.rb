@@ -115,7 +115,7 @@ module EvDed
         loc = details.dig('location') ? details.dig('location') : g.dig('location')
         tsn = details.dig('timestamp') ? details.dig('timestamp') : g.dig('timestamp')
         CSV.foreach(loc, headers: true) do |row|
-          if row[tsn].to_i < 100000
+          if row[tsn].to_i < 100000 && row[tsn].length() <= 5
             ts = Time.at(row[tsn].to_i)
           else
             ts = Time.parse(row[tsn]) rescue Time.at(row[tsn].to_i)

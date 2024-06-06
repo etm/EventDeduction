@@ -4,182 +4,207 @@
     timestamp: timestamp
     sensors:
     - State_progStatus:
-        location: data/chess_piece_production/State_progStatus.csv
+        location: chess_piece_production/State_progStatus.csv
         type: discrete
         data: integer
     - State_resetActive:
-        location: data/chess_piece_production/State_resetActive.csv
+        location: chess_piece_production/State_resetActive.csv
         type: discrete
         data: integer
     - Program_actLineNumber:
-        location: data/chess_piece_production/Program_actLineNumber.csv
+        location: chess_piece_production/Program_actLineNumber.csv
         type: discrete
         data: integer
     - Program_actBlock:
-        location: data/chess_piece_production/Program_actBlock.csv
+        location: chess_piece_production/Program_actBlock.csv
         type: discrete
         data: string
     - Axes_Z_aaTorque:
-        location: data/chess_piece_production/Axes_Z_aaTorque.csv
+        location: chess_piece_production/Axes_Z_aaTorque.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Axes_Power_Active_Sum:
-        location: data/chess_piece_production/MaxxTurn45_Axes_Power_Active_Sum.csv
+        location: chess_piece_production/MaxxTurn45_Axes_Power_Active_Sum.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Coolant_Power_Active_Sum:
-        location: data/chess_piece_production/MaxxTurn45_Coolant_Power_Active_Sum.csv
+        location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_Sum.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Axes_Power_Active_A:
-        location: data/chess_piece_production/MaxxTurn45_Axes_Power_Active_A.csv
+        location: chess_piece_production/MaxxTurn45_Axes_Power_Active_A.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Power_Active_Sum:
-        location: data/chess_piece_production/MaxxTurn45_Power_Active_Sum.csv
+        location: chess_piece_production/MaxxTurn45_Power_Active_Sum.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Coolant_Power_Active_A:
-        location: data/chess_piece_production/MaxxTurn45_Coolant_Power_Active_A.csv
+        location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_A.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Axes_Power_Active_B:
-        location: data/chess_piece_production/MaxxTurn45_Axes_Power_Active_B.csv
+        location: chess_piece_production/MaxxTurn45_Axes_Power_Active_B.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Power_Active_A:
-        location: data/chess_piece_production/MaxxTurn45_Power_Active_A.csv
+        location: chess_piece_production/MaxxTurn45_Power_Active_A.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Coolant_Power_Active_B:
-        location: data/chess_piece_production/MaxxTurn45_Coolant_Power_Active_B.csv
+        location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_B.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Axes_Power_Active_C:
-        location: data/chess_piece_production/MaxxTurn45_Axes_Power_Active_C.csv
+        location: chess_piece_production/MaxxTurn45_Axes_Power_Active_C.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Power_Active_B:
-        location: data/chess_piece_production/MaxxTurn45_Power_Active_B.csv
+        location: chess_piece_production/MaxxTurn45_Power_Active_B.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Coolant_Power_Active_C:
-        location: data/chess_piece_production/MaxxTurn45_Coolant_Power_Active_C.csv
+        location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_C.csv
         type: continuous
         data: float
+        data-round: 2
     - MaxxTurn45_Power_Active_C:
-        location: data/chess_piece_production/MaxxTurn45_Power_Active_C.csv
+        location: chess_piece_production/MaxxTurn45_Power_Active_C.csv
         type: continuous
         data: float
+        data-round: 2
     - CounterSpindle_aaLeadP:
-        location: data/chess_piece_production/CounterSpindle_aaLeadP.csv
+        location: chess_piece_production/CounterSpindle_aaLeadP.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_X_aaTorque:
-        location: data/chess_piece_production/Axes_X_aaTorque.csv
+        location: chess_piece_production/Axes_X_aaTorque.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_Y_aaTorque:
-        location: data/chess_piece_production/Axes_Y_aaTorque.csv
+        location: chess_piece_production/Axes_Y_aaTorque.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_X_aaLeadP:
-        location: data/chess_piece_production/Axes_X_aaLeadP.csv
+        location: chess_piece_production/Axes_X_aaLeadP.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_Z_aaLeadP:
-        location: data/chess_piece_production/Axes_Z_aaLeadP.csv
+        location: chess_piece_production/Axes_Z_aaLeadP.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_X_aaVactB:
-        location: data/chess_piece_production/Axes_X_aaVactB.csv
+        location: chess_piece_production/Axes_X_aaVactB.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_Z_aaVactB:
-        location: data/chess_piece_production/Axes_Z_aaVactB.csv
+        location: chess_piece_production/Axes_Z_aaVactB.csv
         type: continuous
         data: float
+        data-round: 2
     - Active:
-        location: data/chess_piece_production/Active.csv
+        location: chess_piece_production/Active.csv
         type: binary
         data: boolean
     - Cancelled:
-        location: data/chess_piece_production/Cancelled.csv
+        location: chess_piece_production/Cancelled.csv
         type: binary
         data: boolean
     - Ready:
-        location: data/chess_piece_production/Ready.csv
+        location: chess_piece_production/Ready.csv
         type: binary
         data: boolean
     - NC:
-        location: data/chess_piece_production/NC.csv
+        location: chess_piece_production/NC.csv
         type: discrete
         data: string
     - Channel:
-        location: data/chess_piece_production/Channel.csv
+        location: chess_piece_production/Channel.csv
         type: discrete
         data: string
     - Current:
-        location: data/chess_piece_production/Current.csv
+        location: chess_piece_production/Current.csv
         type: discrete
         data: string
     - Program_msg:
-        location: data/chess_piece_production/Program_msg.csv
+        location: chess_piece_production/Program_msg.csv
         type: discrete
         data: string
     - Status:
-        location: data/chess_piece_production/Status.csv
+        location: chess_piece_production/Status.csv
         type: discrete
         data: string
     - State_actToolIdent:
-        location: data/chess_piece_production/State_actToolIdent.csv
+        location: chess_piece_production/State_actToolIdent.csv
         type: discrete
         data: string
     - State_actTNumber:
-        location: data/chess_piece_production/State_actTNumber.csv
+        location: chess_piece_production/State_actTNumber.csv
         type: discrete
         data: integer
     - State_actToolLength1:
-        location: data/chess_piece_production/State_actToolLength1.csv
+        location: chess_piece_production/State_actToolLength1.csv
         type: continuous
         data: float
+        data-round: 2
     - State_actToolRadius:
-        location: data/chess_piece_production/State_actToolRadius.csv
+        location: chess_piece_production/State_actToolRadius.csv
         type: continuous
         data: float
+        data-round: 2
     - Spindle_actSpeed:
-        location: data/chess_piece_production/Spindle_actSpeed.csv
+        location: chess_piece_production/Spindle_actSpeed.csv
         type: continuous
         data: float
+        data-round: 2
     - Spindle_turnState:
-        location: data/chess_piece_production/Spindle_turnState.csv
+        location: chess_piece_production/Spindle_turnState.csv
         type: discrete
         data: integer
     - Axes_Y_aaLeadP:
-        location: data/chess_piece_production/Axes_Y_aaLeadP.csv
+        location: chess_piece_production/Axes_Y_aaLeadP.csv
         type: continuous
         data: float
+        data-round: 2
     - Axes_Y_aaVactB:
-        location: data/chess_piece_production/Axes_Y_aaVactB.csv
+        location: chess_piece_production/Axes_Y_aaVactB.csv
         type: continuous
         data: float
+        data-round: 2
     - Program_progName1:
-        location: data/chess_piece_production/Program_progName1.csv
+        location: chess_piece_production/Program_progName1.csv
         type: binary
         data: string
     - Opened:
-        location: data/chess_piece_production/Opened.csv
+        location: chess_piece_production/Opened.csv
         type: binary
         data: boolean
     - ClampingSystem2:
-        location: data/chess_piece_production/ClampingSystem2.csv
+        location: chess_piece_production/ClampingSystem2.csv
         type: binary
         data: string
     - Closed:
-        location: data/chess_piece_production/Closed.csv
+        location: chess_piece_production/Closed.csv
         type: binary
         data: boolean
     - ClampingSystem1:
-        location: data/chess_piece_production/ClampingSystem1.csv
+        location: chess_piece_production/ClampingSystem1.csv
         type: discrete
         data: string

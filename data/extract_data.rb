@@ -1,10 +1,49 @@
 #!/usr/bin/ruby
-require_relative 'lib/load'
-
+require 'csv'
+require 'time'
 require 'psych'
 require 'typhoeus'
+require 'optparse'
 
-path = ARGV[0]
+def wrap(s, width=78, indent=23)
+	lines = []
+	line, s = s[0..indent-2], s[indent..-1]
+  s.split(/\n/).each do |ss|
+    ss.split(/[ \t]+/).each do |word|
+      if line.size + word.size >= width
+        lines << line
+        line = (" " * (indent)) + word
+      else
+        line << " " << word
+      end
+    end
+    lines << line if line
+    line = (" " * (indent-1))
+  end
+	return lines.join "\n"
+end
+
+ARGV.options { |opt|
+  opt.summary_indent = ' ' * 2
+  opt.summary_width = 20
+  opt.banner = "Usage:\n#{opt.summary_indent}#{File.basename($0)} TARGET (URL|FILE)\n"
+  opt.on("Options:")
+  opt.on("--help", "-h", "This text") { puts opt; exit }
+	opt.on("")
+  opt.on(wrap("[TARGET]               name of the extracted sensorstream, e.g., chess_piece_production."))
+	opt.on("")
+  opt.on(wrap("[URL|FILE]             source file. Must be a .xes.yaml."))
+	opt.on("")
+	opt.on("Example: ./#{File.basename($0)} chess_piece_production ./chess_piece_production.xes.yaml")
+  opt.parse!
+}
+if (ARGV.length != 2)
+  puts ARGV.options
+  exit
+end
+
+target = ARGV[0]
+path = ARGV[1]
 if(path =~ /^http.*/) then
   response = Typhoeus.get(path)
   if(response.success?())
@@ -72,14 +111,16 @@ to_write = []
 to_write.push('group' => {'id' => 'all', 'timestamp' => 'timestamp'})
 
 to_write.first()['group']['sensors'] = []
-data.map() { |k,v| [k,{'location' => File.join('data','chess_piece_production',"#{k}.csv"), 'type' => v[:type], 'data' => v[:data]}] }.to_h().each() { |k,v| to_write.first()['group']['sensors'].push({k => v}) }
+minmax = {}
+data.map() { |k,v| [k,{'location' => File.join(target,"#{k}.csv"), 'type' => v[:type], 'data' => v[:data], 'data-round' => (2 if v[:data] == 'float')}.compact()] }.to_h().each() { |k,v| to_write.first()['group']['sensors'].push({k => v}) }
 
-main = File.open(File.join('data','chess_piece_production.yaml'), 'w')
+main = File.open(File.join(target + '.yaml'), 'w')
 main.write(to_write.to_yaml())
 main.close()
 
+Dir.mkdir(target) rescue nil
 data.each() { |k,v|
-  csv = CSV.open(File.join('data','chess_piece_production',"#{k}.csv"), 'w')
+  csv = CSV.open(File.join(target,"#{k}.csv"), 'w')
   csv.puts(['id','timestamp',k])
   v[:points].each() { |point|
     csv.puts(['i1',point[:timestamp],point[:value]])

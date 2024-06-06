@@ -7,14 +7,20 @@
         location: chess_piece_production/State_progStatus.csv
         type: discrete
         data: integer
+        data-min: 3
+        data-max: 3
     - State_resetActive:
         location: chess_piece_production/State_resetActive.csv
         type: discrete
         data: integer
+        data-min: 0
+        data-max: 0
     - Program_actLineNumber:
         location: chess_piece_production/Program_actLineNumber.csv
         type: discrete
         data: integer
+        data-min: -2
+        data-max: 28
     - Program_actBlock:
         location: chess_piece_production/Program_actBlock.csv
         type: discrete
@@ -24,101 +30,141 @@
         type: continuous
         data: float
         data-round: 2
+        data-min: -9.409
+        data-max: 9.993
     - MaxxTurn45_Axes_Power_Active_Sum:
         location: chess_piece_production/MaxxTurn45_Axes_Power_Active_Sum.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -11055.6103515625
+        data-max: 18543.19140625
     - MaxxTurn45_Coolant_Power_Active_Sum:
         location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_Sum.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 317.46038818359375
+        data-max: 1196.457275390625
     - MaxxTurn45_Axes_Power_Active_A:
         location: chess_piece_production/MaxxTurn45_Axes_Power_Active_A.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -3624.017578125
+        data-max: 6211.6865234375
     - MaxxTurn45_Power_Active_Sum:
         location: chess_piece_production/MaxxTurn45_Power_Active_Sum.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -6642.7216796875
+        data-max: 15860.0302734375
     - MaxxTurn45_Coolant_Power_Active_A:
         location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_A.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 114.72478485107422
+        data-max: 405.635986328125
     - MaxxTurn45_Axes_Power_Active_B:
         location: chess_piece_production/MaxxTurn45_Axes_Power_Active_B.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -3590.82958984375
+        data-max: 6613.6640625
     - MaxxTurn45_Power_Active_A:
         location: chess_piece_production/MaxxTurn45_Power_Active_A.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -2104.985595703125
+        data-max: 5405.755859375
     - MaxxTurn45_Coolant_Power_Active_B:
         location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_B.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 101.87873077392578
+        data-max: 396.32366943359375
     - MaxxTurn45_Axes_Power_Active_C:
         location: chess_piece_production/MaxxTurn45_Axes_Power_Active_C.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -3840.76318359375
+        data-max: 5797.439453125
     - MaxxTurn45_Power_Active_B:
         location: chess_piece_production/MaxxTurn45_Power_Active_B.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -2191.197021484375
+        data-max: 5373.263671875
     - MaxxTurn45_Coolant_Power_Active_C:
         location: chess_piece_production/MaxxTurn45_Coolant_Power_Active_C.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 98.68757629394531
+        data-max: 394.4975891113281
     - MaxxTurn45_Power_Active_C:
         location: chess_piece_production/MaxxTurn45_Power_Active_C.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -2346.5390625
+        data-max: 5081.0107421875
     - CounterSpindle_aaLeadP:
         location: chess_piece_production/CounterSpindle_aaLeadP.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 296.0
+        data-max: 720.0
     - Axes_X_aaTorque:
         location: chess_piece_production/Axes_X_aaTorque.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -9.799
+        data-max: 0.992
     - Axes_Y_aaTorque:
         location: chess_piece_production/Axes_Y_aaTorque.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 0.088
+        data-max: 1.224
     - Axes_X_aaLeadP:
         location: chess_piece_production/Axes_X_aaLeadP.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 75.038
+        data-max: 217.43
     - Axes_Z_aaLeadP:
         location: chess_piece_production/Axes_Z_aaLeadP.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 186.494
+        data-max: 601.5
     - Axes_X_aaVactB:
         location: chess_piece_production/Axes_X_aaVactB.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -24000.0
+        data-max: 24000.000000000004
     - Axes_Z_aaVactB:
         location: chess_piece_production/Axes_Z_aaVactB.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -30000.000000000004
+        data-max: 30000.000000000004
     - Active:
         location: chess_piece_production/Active.csv
         type: binary
@@ -159,35 +205,49 @@
         location: chess_piece_production/State_actTNumber.csv
         type: discrete
         data: integer
+        data-min: 7
+        data-max: 107
     - State_actToolLength1:
         location: chess_piece_production/State_actToolLength1.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 0.0
+        data-max: 126.904
     - State_actToolRadius:
         location: chess_piece_production/State_actToolRadius.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 0.0
+        data-max: 4.9675
     - Spindle_actSpeed:
         location: chess_piece_production/Spindle_actSpeed.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -4006.0221354166665
+        data-max: 4005.6559244791665
     - Spindle_turnState:
         location: chess_piece_production/Spindle_turnState.csv
         type: discrete
         data: integer
+        data-min: 0
+        data-max: 2
     - Axes_Y_aaLeadP:
         location: chess_piece_production/Axes_Y_aaLeadP.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: 0.0
+        data-max: 0.29999999999999877
     - Axes_Y_aaVactB:
         location: chess_piece_production/Axes_Y_aaVactB.csv
         type: continuous
         data: float
         data-round: 2
+        data-min: -96.37224950591204
+        data-max: 55.49132947976879
     - Program_progName1:
         location: chess_piece_production/Program_progName1.csv
         type: binary

@@ -23,6 +23,17 @@ def wrap(s, width=78, indent=23)
 	return lines.join "\n"
 end
 
+def minmax_extract(minmax,k,points)
+  points.each do |p|
+    value = p[:value]
+    if value.is_a?(Integer) || value.is_a?(Float)
+      minmax[k] ||= [value,value]
+      minmax[k][0] = value if minmax[k][0] > value # min
+      minmax[k][1] = value if minmax[k][1] < value # max
+    end
+  end unless points.nil?
+end
+
 ARGV.options { |opt|
   opt.summary_indent = ' ' * 2
   opt.summary_width = 20
@@ -44,13 +55,26 @@ end
 
 target = ARGV[0]
 path = ARGV[1]
-if(path =~ /^http.*/) then
-  response = Typhoeus.get(path)
-  if(response.success?())
-    text = response.response_body
+
+unlink = false
+if path =~ /^http.*/
+  unlink = true
+  text = Tempfile.new('extract-model-download')
+  request = Typhoeus::Request.new(path)
+  request.on_headers do |response|
+    if response.code != 200
+      raise "Request failed"
+    end
   end
+  request.on_body do |chunk|
+    text.write(chunk)
+  end
+  request.on_complete do |response|
+    text.rewind
+  end
+  request.run
 else
-  text = File.read(File.join(__dir__,path))
+  text = File.open(path)
 end
 yaml = Psych.load_stream(text)
 
@@ -59,10 +83,8 @@ info = yaml.shift()
 data = {}
 yaml.each() { |item|
   if(!item.dig('event','stream:datastream').nil?()) then
-    #puts item
     item.dig('event','stream:datastream').each() { |el|
       if(!el.dig('stream:point','stream:id').nil?()) then
-        #puts "#{el.dig('stream:point','stream:id')} - #{el.dig('stream:point','stream:value')}  - #{el.dig('stream:point','stream:timestamp')}"
         id = el.dig('stream:point','stream:id')
         id.gsub!(%r!/!,'_')
         value = el.dig('stream:point','stream:value')
@@ -81,7 +103,6 @@ yaml.each() { |item|
     }
   end
 }
-#pp data.keys()
 
 data.each() { |_,el|
   # binary wenn length 2? -> nochmal checken ob das nicht zu seltsamen Ergebnissen führt
@@ -105,14 +126,25 @@ data.each() { |_,el|
   end
 }
 
-puts data.map() { |key,el| "#{key}: #{el[:type]}/#{el[:data]}" }
+# puts data.map() { |key,el| "#{key}: #{el[:type]}/#{el[:data]}" }
 
 to_write = []
 to_write.push('group' => {'id' => 'all', 'timestamp' => 'timestamp'})
 
 to_write.first()['group']['sensors'] = []
 minmax = {}
-data.map() { |k,v| [k,{'location' => File.join(target,"#{k}.csv"), 'type' => v[:type], 'data' => v[:data], 'data-round' => (2 if v[:data] == 'float')}.compact()] }.to_h().each() { |k,v| to_write.first()['group']['sensors'].push({k => v}) }
+data.each() { |k,v| minmax_extract(minmax,k,v[:points]) }
+data.map do |k,v|
+  ret = {'location' => File.join(target,"#{k}.csv"), 'type' => v[:type], 'data' => v[:data]}
+  if v[:data] == 'float'
+    ret['data-round'] = 2
+  end
+  if v[:data] == 'integer' || v[:data] == 'float'
+    ret['data-min'] = minmax[k][0]
+    ret['data-max'] = minmax[k][1]
+  end
+  [k,ret]
+end.to_h.each { |k,v| to_write.first()['group']['sensors'].push({k => v}) }
 
 main = File.open(File.join(target + '.yaml'), 'w')
 main.write(to_write.to_yaml())
@@ -127,3 +159,6 @@ data.each() { |k,v|
   }
   csv.close()
 }
+
+text.close
+text.unlink if unlink

@@ -45,13 +45,18 @@ module EvDed
     def time_map(times) ### TODO linear axproximation
       times.sort!
       ret = {}
-      t = Time.at(0)
       stimes = @series.keys.sort
+      t = stimes.shift
       times.each do |time|
-        while !t.nil? && time > t
+        if time < t
+          ret[time] = nil
+        elsif time > t
           t = stimes.shift
+          t = @series.keys.last if t.nil?
+          ret[time] = @series[t]
+        else
+          ret[time] = @series[t]
         end
-        ret[time] = @series[t || @series.keys.last]
       end
       ret
     end
@@ -126,8 +131,9 @@ module EvDed
           data[id][name][ts] = case da
             when 'integer'; value.to_i
             when 'float'; value.to_f
-            when 'string'; value
             when 'datetime'; Time.parse(value)
+            else
+              value
           end
 
           if part = details.dig('partition')
@@ -188,12 +194,14 @@ module EvDed
       sensors.each do |l,series|
         changes[l] = {}
         pval = nil
+        first = true
         series.each do |t,val|
-          changes[l][t] = if val != pval
+          changes[l][t] = if val != pval && !first
             1
           else
             0
           end
+          first = false
           pval = val
           stamps << t
         end
@@ -236,7 +244,7 @@ module EvDed
             best_match = sensors
           end
         end
-        ### also remember all the max sensor priorities (min) for later, i.e., should be find no good match
+        ### also remember all the max sensor priorities (min) for later, i.e., should we find no good match
         sensors.each do |sname,v|
           if max_prios[sname].nil?
             max_prios[sname] = v.classification
@@ -276,6 +284,15 @@ module EvDed
     res_imp = {}
     res_sum.each do |s,prio_sum|
       res_imp[s] = [prio_sum / res_num[s].to_f,[]]
+    end
+
+    ### sensors that only changes at first timestamp, and never again are not part of res_imp. Set the all to 0
+    groups.each do |k,sensors|
+      sensors.each do |sname,_|
+        if !res_imp[sname]
+          res_imp[sname] = [0,[]]
+        end
+      end
     end
 
     ### attach timestamp

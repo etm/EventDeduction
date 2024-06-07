@@ -21,5 +21,5 @@ end
 puts "\nStep 5: Sensor Importance ..."
 sis = EvDed::sensor_importance_naive(groups, jcs)
 sis.each do |s,i|
-  puts "  #{s}: #{i[0].round(3)}, #{EvDed::ftsa(i[1])}"
+  puts "  #{s}: #{i[0].round(3)} (#{EvDed::ftsa(i[1]).length} events#{i[0] == 0 ? ' -> no events, or only event on first timestamp' : ''})"
 end

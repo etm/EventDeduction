@@ -16,7 +16,6 @@ groups = EvDed::align_timestamps(groups)
 
 puts "  integrated into step 5"
 
-
 puts "\nStep 5: ..."
 ###
 # groesste Gruppe, mit der hoechsten class innerhalb

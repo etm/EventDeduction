@@ -43,9 +43,10 @@ module EvDed
       @changes = changes
     end
     def time_map(times) ### TODO linear axproximation
+      times.sort!
       ret = {}
       t = Time.at(0)
-      stimes = @series.keys
+      stimes = @series.keys.sort
       times.each do |time|
         while !t.nil? && time > t
           t = stimes.shift
@@ -188,7 +189,7 @@ module EvDed
         changes[l] = {}
         pval = nil
         series.each do |t,val|
-          changes[l][t] = if !pval.nil? && val != pval
+          changes[l][t] = if val != pval
             1
           else
             0
@@ -199,12 +200,11 @@ module EvDed
         stamps.uniq!
       end
     end
-    pp series
     tseries = {}
     stamps.each do |t|
+      tseries[t] ||= []
       changes.each do |l,v|
         if v[t] == 1
-          tseries[t] ||= []
           tseries[t] << l
         end
       end

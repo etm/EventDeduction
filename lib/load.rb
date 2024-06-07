@@ -73,6 +73,7 @@ module EvDed
   end #}}}
 
   def self::load_transform_classify(configpath) #{{{
+    configpathbase = File.dirname(configpath)
     data = {}
     groups = YAML.load_file(configpath)
     groups.each do |g|
@@ -112,7 +113,7 @@ module EvDed
           data[id][name].classification += (data[id][name].classification - 1)
         end
 
-        loc = details.dig('location') ? details.dig('location') : g.dig('location')
+        loc = File.join(configpathbase,details.dig('location') ? details.dig('location') : g.dig('location'))
         tsn = details.dig('timestamp') ? details.dig('timestamp') : g.dig('timestamp')
         CSV.foreach(loc, headers: true) do |row|
           if row[tsn].to_i < 100000 && row[tsn].length() <= 5
@@ -198,6 +199,7 @@ module EvDed
         stamps.uniq!
       end
     end
+    pp series
     tseries = {}
     stamps.each do |t|
       changes.each do |l,v|

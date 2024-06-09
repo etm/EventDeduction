@@ -3,7 +3,7 @@
     timestamp: timestamp
     sensors:
       - conveyor_energy_consumption:
-          location: data/ronny/1.csv
+          location: ronny/1.csv
           type: discrete
           data: integer
           partition:
@@ -12,7 +12,7 @@
             2: 2
           else: error
       - conveyor_light_barrier:
-          location: data/ronny/2.csv
+          location: ronny/2.csv
           type: binary
           data: integer
           partition:
@@ -20,7 +20,7 @@
             1: 1
           else: error
       - crane_y:
-          location: data/ronny/3.csv
+          location: ronny/3.csv
           type: discrete
           data: integer
           partition:
@@ -29,7 +29,7 @@
             2: 2
           else: error
       - crane_x:
-          location: data/ronny/4.csv
+          location: ronny/4.csv
           type: discrete
           data: integer
           partition:
@@ -43,7 +43,7 @@
     timestamp: timestamp
     sensors:
       - oven_door:
-          location: data/ronny/5.csv
+          location: ronny/5.csv
           type: binary
           data: integer
           partition:
@@ -51,7 +51,7 @@
             1: 1
           else: error
       - oven_energy_consumption:
-          location: data/ronny/6.csv
+          location: ronny/6.csv
           type: discrete
           data: integer
           partition:
@@ -64,7 +64,7 @@
     timestamp: timestamp
     sensors:
       - crane_y:
-          location: data/ronny/3.csv
+          location: ronny/3.csv
           type: discrete
           data: integer
           partition:
@@ -73,7 +73,7 @@
             2: 2
           else: error
       - crane_x:
-          location: data/ronny/4.csv
+          location: ronny/4.csv
           type: discrete
           data: integer
           partition:

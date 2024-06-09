@@ -14,17 +14,9 @@ end
 puts "\nStep 4: ..."
 groups = EvDed::align_timestamps(groups)
 
-puts "  integrated into step 5"
-
-puts "\nStep 5: ..."
-###
-# groesste Gruppe, mit der hoechsten class innerhalb
-
-#stime = '2022-07-19 10:02:57.22 +0200'
-#print "\nSearching for '#{stime}' in vgr/current_state: "
-#puts groups['vgr']['current_state'].find(stime)
-
-groups.each() {|group,sensors|
+group_changes = []
+groups.each() { |group_id,sensors|
+=begin
   puts "  #{group}:"
   timestamps = sensors.map() { |sensor,series|
     series.get_times()
@@ -42,9 +34,25 @@ groups.each() {|group,sensors|
   #pp changes_per_timestamp
   puts "    sensors: #{changes_per_timestamp[:participating_sensors]}"
   puts "    changes: \n      #{changes_per_timestamp[:timestamps].sort() {|a,b| a <=> b}.map() { |k,v| "#{k.strftime('%Y-%m-%dT%H:%M:%S.%1N')}:#{v}" }.join("\n      ") }"
+=end
+  
+  group_changes.push(EvDed::joint_changes_m(group_id,sensors))
+}
+
+puts "\nStep 5: ..."
+###
+# groesste Gruppe, mit der hoechsten class innerhalb
+
+#stime = '2022-07-19 10:02:57.22 +0200'
+#print "\nSearching for '#{stime}' in vgr/current_state: "
+#puts groups['vgr']['current_state'].find(stime)
 
 
-    max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
+
+group_changes.each() { |changes_per_timestamp|
+  EvDed::sensor_importance_m(changes_per_timestamp)
+=begin
+  max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
   results = []
   changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
     max_importance_sensor = max_importance - changes_per_timestamp[:participating_sensors][sensor]
@@ -61,7 +69,7 @@ groups.each() {|group,sensors|
   results.sort() { |a,b| b[:value] <=> a[:value] }.each() { |result|
     puts "    #{result[:sensor]} -> #{result[:value]} / #{result[:max_value]}"
   }
-
+=end
 }
 
 

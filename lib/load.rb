@@ -212,6 +212,27 @@ module EvDed
     tseries
   end #}}}
 
+  def self::joint_changes_m(group_id,sensors) #{{{
+    puts "  #{group_id}:"
+    timestamps = sensors.map() { |sensor,series|
+      series.get_times()
+    }.flatten().uniq()
+    change_list = sensors.map() { |sensor,series|
+      [sensor,{:changes => series.changes, :classification => series.classification}]
+    }.to_h()
+  
+    changes_per_timestamp = {:participating_sensors => change_list.map() { |sensor_name, sensor_info| [sensor_name,1.0/sensor_info[:classification]] }.to_h(), :timestamps => {}}
+    timestamps.each() { |ts|
+      changes_per_timestamp[:timestamps][ts] = change_list.filter() { |name,characteristics|
+        characteristics[:changes].include?(ts)
+      }.keys()
+    }
+    #pp changes_per_timestamp
+    puts "    sensors: #{changes_per_timestamp[:participating_sensors]}"
+    puts "    changes: \n      #{changes_per_timestamp[:timestamps].sort() {|a,b| a <=> b}.map() { |k,v| "#{k.strftime('%Y-%m-%dT%H:%M:%S.%1N')}:#{v}" }.join("\n      ") }"
+    return changes_per_timestamp
+  end #}}}
+
   def self::sensor_importance_naive(groups,tseries) #{{{
     prios_timestamp_per_sensor = {}
     max_prios = {}
@@ -288,6 +309,27 @@ module EvDed
     end
 
     res_imp.sort_by{ |k,v| v[0] }.reverse.to_h
+  end #}}}
+  
+  def self::sensor_importance_m(changes_per_timestamp) #{{{
+    max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
+    results = []
+    changes_per_timestamp[:participating_sensors].each() { |sensor,classification|
+      max_importance_sensor = max_importance - changes_per_timestamp[:participating_sensors][sensor]
+      x = 0.0
+      changes_per_timestamp[:timestamps].each() { |timestamp,participating_sensors|
+        #x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |s,_| s == sensor ? 0.0 : changes_per_timestamp[:participating_sensors][s]} : max_importance_sensor - participating_sensors.sum() { |s,_| s == sensor ? 0.0 : changes_per_timestamp[:participating_sensors][s]}
+        x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]} : max_importance - participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]}
+      }
+      #puts "    #{sensor} -> #{x} / #{max_importance_sensor*changes_per_timestamp[:timestamps].length()}"
+  
+      #puts "    #{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
+      results.push({:sensor => sensor, :value => x, :max_value => max_importance*changes_per_timestamp[:timestamps].length()})
+    }
+    results.sort() { |a,b| b[:value] <=> a[:value] }.each() { |result|
+      puts "    #{result[:sensor]} -> #{result[:value]} / #{result[:max_value]}"
+    }
+
   end #}}}
 
   def self::fts(ts) #{{{

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ready",
+    "ranking": 13.0,
+    "meta": {
+      "description" : "Ready: [some description]"
+    }
+    "events": [
+      {
+        "timestamp": "[some timestamp]"
+        "annotation": "[some annotation]"
+      },
+      {
+        "value": "[value]"
+        "timestamp": "[some other timestamp]"
+        "annotation": "[some other annotation]"
+      }
+    ]
+
+  }
+
+
+]

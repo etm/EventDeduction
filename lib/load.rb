@@ -8,7 +8,7 @@ require 'json'
 module EvDed
   class Series #{{{
     attr_accessor :classification
-    attr_reader :changes
+    attr_reader :changes, :series
 
     def initialize
       @series = {}
@@ -187,6 +187,15 @@ module EvDed
     end.to_h
   end #}}}
 
+  def self::write_timestamps(groups,name)
+    r = groups.map do |g,sensor|
+      sensor.map do |name,s|
+        [ name, s.series.map{|k,v| [k.xmlschema(2),v] }.to_h ]
+      end
+    end
+    File.write name + '_data.txt', JSON::pretty_generate(r)
+  end
+
   def self::joint_changes_naive(groups) #{{{
     changes = {}
     stamps = []
@@ -228,7 +237,7 @@ module EvDed
     change_list = sensors.map() { |sensor,series|
       [sensor,{:changes => series.changes, :classification => series.classification}]
     }.to_h()
-  
+
     changes_per_timestamp = {:participating_sensors => change_list.map() { |sensor_name, sensor_info| [sensor_name,1.0/sensor_info[:classification]] }.to_h(), :timestamps => {}}
     timestamps.each() { |ts|
       changes_per_timestamp[:timestamps][ts] = change_list.filter() { |name,characteristics|
@@ -325,9 +334,30 @@ module EvDed
       end
     end
 
-    res_imp.sort_by{ |k,v| v[0] }.reverse.to_h
+    # sort, and convert to default output format
+    res_imp.sort_by{ |k,v| v[0] }.reverse.to_h.map do |s,i|
+      {
+        "name" => s,
+        "ranking" => i[0].round(3),
+        "meta" => {
+          "description" => s
+        },
+        "events" => i[1].map { |ts| { 'timestamp' => ts.xmlschema(2), "annotation" => '' } }
+      }
+    end
   end #}}}
-  
+
+  def self::sensor_importance_print(sis) #{{{
+    sis.each do |s,i|
+      puts "  #{s['name']}: #{s['ranking']} (#{s['events'].length} events#{s['ranking'] == 0 ? ' -> no events, or only event on first timestamp' : ''})"
+    end
+  end #}}}
+
+  def self::sensor_importance_write(sis,name) #{{{
+    File.write name + '_result.txt', JSON::pretty_generate(sis)
+  end #}}}
+
+
   def self::sensor_importance_m(changes_per_timestamp) #{{{
     max_importance = changes_per_timestamp[:participating_sensors].sum() { |sensor_name,classification| classification}
     results = []
@@ -339,7 +369,7 @@ module EvDed
         x += participating_sensors.include?(sensor) ? participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]} : max_importance - participating_sensors.sum() { |s,_| changes_per_timestamp[:participating_sensors][s]}
       }
       #puts "    #{sensor} -> #{x} / #{max_importance_sensor*changes_per_timestamp[:timestamps].length()}"
-  
+
       #puts "    #{sensor} -> #{x} / #{max_importance*changes_per_timestamp[:timestamps].length()}"
       results.push({:sensor => sensor, :value => x, :max_value => max_importance*changes_per_timestamp[:timestamps].length()})
     }

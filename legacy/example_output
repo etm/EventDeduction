@@ -11,7 +11,6 @@
         "annotation": "[some annotation]"
       },
       {
-        "value": "[value]"
         "timestamp": "[some other timestamp]"
         "annotation": "[some other annotation]"
       }
